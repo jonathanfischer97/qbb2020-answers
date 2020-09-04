@@ -1,0 +1,1000 @@
+target sequence names and starts ['STRG.12.1', 66], query start: 10, kmer: CCAGGATTTGG
+target sequence names and starts ['STRG.24.1', 1316], query start: 12, kmer: AGGATTTGGAT
+target sequence names and starts ['STRG.24.1', 1317], query start: 13, kmer: GGATTTGGATT
+target sequence names and starts ['STRG.24.1', 1318], query start: 14, kmer: GATTTGGATTT
+target sequence names and starts ['STRG.11.1', 24], query start: 20, kmer: GATTTGTTGTG
+target sequence names and starts ['STRG.20.3', 5720, 'STRG.20.1', 15438, 'STRG.20.2', 16023], query start: 102, kmer: GTTTGGCTGGC
+target sequence names and starts ['STRG.20.3', 5721, 'STRG.20.1', 15439, 'STRG.20.2', 16024], query start: 103, kmer: TTTGGCTGGCT
+target sequence names and starts ['STRG.57.1', 719, 'STRG.57.2', 719], query start: 121, kmer: CCAGCTGGAGG
+target sequence names and starts ['STRG.16.1', 273, 'STRG.16.2', 273], query start: 125, kmer: CTGGAGGGCAT
+target sequence names and starts ['STRG.2.1', 552, 'STRG.2.2', 552], query start: 165, kmer: TTTGCGCTGCC
+target sequence names and starts ['STRG.5.1', 2100], query start: 166, kmer: TTGCGCTGCCT
+target sequence names and starts ['STRG.47.2', 1294], query start: 190, kmer: ATAAATATTTC
+target sequence names and starts ['STRG.35.1', 1507], query start: 207, kmer: TAGAAAATGTT
+target sequence names and starts ['STRG.4.1', 2100, 'STRG.8.1', 18], query start: 252, kmer: TTTTGTTTTGC
+target sequence names and starts ['STRG.8.1', 19], query start: 253, kmer: TTTGTTTTGCT
+target sequence names and starts ['STRG.8.1', 20], query start: 254, kmer: TTGTTTTGCTT
+target sequence names and starts ['STRG.8.1', 21], query start: 255, kmer: TGTTTTGCTTA
+target sequence names and starts ['STRG.8.1', 22], query start: 256, kmer: GTTTTGCTTAC
+target sequence names and starts ['STRG.21.2', 198, 'STRG.21.1', 198], query start: 299, kmer: ATCCGGGCAAA
+target sequence names and starts ['STRG.18.2', 10545, 'STRG.18.1', 10599], query start: 305, kmer: GCAAAGTTTAA
+target sequence names and starts ['STRG.20.3', 795, 'STRG.20.1', 10513, 'STRG.20.2', 11098], query start: 314, kmer: AATCGAAAAGG
+target sequence names and starts ['STRG.20.3', 796, 'STRG.20.1', 10514, 'STRG.20.2', 11099], query start: 315, kmer: ATCGAAAAGGA
+target sequence names and starts ['STRG.58.1', 868], query start: 318, kmer: GAAAAGGAGAA
+target sequence names and starts ['STRG.58.1', 869], query start: 319, kmer: AAAAGGAGAAG
+target sequence names and starts ['STRG.58.1', 870], query start: 320, kmer: AAAGGAGAAGA
+target sequence names and starts ['STRG.2.1', 3226, 'STRG.2.2', 3226], query start: 322, kmer: AGGAGAAGAAA
+target sequence names and starts ['STRG.20.3', 7678, 'STRG.20.1', 17396, 'STRG.20.2', 17981], query start: 349, kmer: GCTAATGGCGC
+target sequence names and starts ['STRG.20.1', 4193, 'STRG.20.2', 4193], query start: 388, kmer: GCCCAGGTGGG
+target sequence names and starts ['STRG.20.1', 10021, 'STRG.20.2', 10606], query start: 390, kmer: CCAGGTGGGCA
+target sequence names and starts ['STRG.20.1', 10022, 'STRG.20.2', 10607], query start: 391, kmer: CAGGTGGGCAT
+target sequence names and starts ['STRG.59.2', 748], query start: 398, kmer: GCATTTATCAT
+target sequence names and starts ['STRG.18.2', 4090, 'STRG.18.1', 4144], query start: 403, kmer: TATCATCATCA
+target sequence names and starts ['STRG.18.2', 15275, 'STRG.18.1', 15329], query start: 409, kmer: CATCAGCAGCC
+target sequence names and starts ['STRG.20.3', 5399, 'STRG.20.1', 15117, 'STRG.20.2', 15702], query start: 459, kmer: CCGCAAATGAA
+target sequence names and starts ['STRG.20.1', 123, 'STRG.20.2', 123], query start: 581, kmer: AAACACGAAAC
+target sequence names and starts ['STRG.31.1', 1196, 'STRG.31.2', 1196], query start: 597, kmer: CCGCATCCGCA
+target sequence names and starts ['STRG.3.3', 64], query start: 607, kmer: AAAATCCTTTG
+target sequence names and starts ['STRG.3.3', 65], query start: 608, kmer: AAATCCTTTGA
+target sequence names and starts ['STRG.3.3', 66], query start: 609, kmer: AATCCTTTGAG
+target sequence names and starts ['STRG.3.3', 67], query start: 610, kmer: ATCCTTTGAGC
+target sequence names and starts ['STRG.18.2', 11653, 'STRG.18.1', 11707], query start: 641, kmer: AAAATGACACC
+target sequence names and starts ['STRG.23.3', 517, 'STRG.23.1', 290, 'STRG.23.2', 290], query start: 647, kmer: ACACCAGCGGC
+target sequence names and starts ['STRG.23.3', 518, 'STRG.23.1', 291, 'STRG.23.2', 291], query start: 648, kmer: CACCAGCGGCT
+target sequence names and starts ['STRG.58.1', 488], query start: 682, kmer: CAGCCATTAAA
+target sequence names and starts ['STRG.48.1', 3475], query start: 688, kmer: TTAAAACTACG
+target sequence names and starts ['STRG.13.1', 2740], query start: 764, kmer: AAGGAATTTGC
+target sequence names and starts ['STRG.13.1', 2741], query start: 765, kmer: AGGAATTTGCT
+target sequence names and starts ['STRG.14.1', 767], query start: 768, kmer: AATTTGCTGTC
+target sequence names and starts ['STRG.5.1', 185], query start: 780, kmer: TCTGGTTGCCA
+target sequence names and starts ['STRG.5.1', 186], query start: 781, kmer: CTGGTTGCCAT
+target sequence names and starts ['STRG.26.1', 1867, 'STRG.26.2', 2889], query start: 802, kmer: CACCTCATCGC
+target sequence names and starts ['STRG.26.1', 1868, 'STRG.26.2', 2890], query start: 803, kmer: ACCTCATCGCC
+target sequence names and starts ['STRG.44.1', 2808, 'STRG.44.2', 2808], query start: 828, kmer: CTAGGAGCAGC
+target sequence names and starts ['STRG.57.1', 752, 'STRG.57.2', 752], query start: 830, kmer: AGGAGCAGCCA
+target sequence names and starts ['STRG.57.1', 753, 'STRG.57.2', 753], query start: 831, kmer: GGAGCAGCCAG
+target sequence names and starts ['STRG.18.2', 7674, 'STRG.18.1', 7728], query start: 836, kmer: AGCCAGGAGCT
+target sequence names and starts ['STRG.18.2', 4719, 'STRG.18.1', 4773], query start: 858, kmer: TGAAAGACTGC
+target sequence names and starts ['STRG.18.2', 4720, 'STRG.18.1', 4774], query start: 859, kmer: GAAAGACTGCG
+target sequence names and starts ['STRG.9.1', 1474, 'STRG.9.2', 1474, 'STRG.9.3', 1694], query start: 874, kmer: ATTGAACTGAA
+target sequence names and starts ['STRG.56.1', 1470, 'STRG.56.3', 2668], query start: 935, kmer: GCTCTTAAACT
+target sequence names and starts ['STRG.7.6', 136], query start: 947, kmer: GCATTTTAAAC
+target sequence names and starts ['STRG.18.2', 166, 'STRG.18.1', 166], query start: 980, kmer: TAAATATAGCA
+target sequence names and starts ['STRG.2.1', 736, 'STRG.2.2', 736], query start: 981, kmer: AAATATAGCAA
+target sequence names and starts ['STRG.42.2', 926], query start: 1005, kmer: GCAATTTTTAA
+target sequence names and starts ['STRG.42.2', 927], query start: 1006, kmer: CAATTTTTAAA
+target sequence names and starts ['STRG.42.2', 928, 'STRG.57.2', 3573], query start: 1007, kmer: AATTTTTAAAT
+target sequence names and starts ['STRG.57.2', 3574], query start: 1008, kmer: ATTTTTAAATT
+target sequence names and starts ['STRG.20.3', 139], query start: 1019, kmer: GAAATGGAATA
+target sequence names and starts ['STRG.20.3', 140], query start: 1020, kmer: AAATGGAATAA
+target sequence names and starts ['STRG.10.6', 296, 'STRG.10.1', 50, 'STRG.10.4', 50], query start: 1028, kmer: TAAGGCAATAT
+target sequence names and starts ['STRG.10.6', 297, 'STRG.10.1', 51, 'STRG.10.4', 51], query start: 1029, kmer: AAGGCAATATA
+target sequence names and starts ['STRG.10.6', 298, 'STRG.10.1', 52, 'STRG.10.4', 52], query start: 1030, kmer: AGGCAATATAA
+target sequence names and starts ['STRG.1.1', 4072], query start: 1034, kmer: AATATAAAATA
+target sequence names and starts ['STRG.1.1', 1402], query start: 1071, kmer: AGATGTCGCTG
+target sequence names and starts ['STRG.1.1', 1403, 'STRG.4.1', 171], query start: 1072, kmer: GATGTCGCTGA
+target sequence names and starts ['STRG.27.1', 171], query start: 1077, kmer: CGCTGAGCAAG
+target sequence names and starts ['STRG.31.2', 3536, 'STRG.31.3', 2446], query start: 1101, kmer: CTTTCCCAGCC
+target sequence names and starts ['STRG.31.2', 3537, 'STRG.31.3', 2447], query start: 1102, kmer: TTTCCCAGCCA
+target sequence names and starts ['STRG.44.1', 3567, 'STRG.44.2', 3567], query start: 1114, kmer: CTGATGAACGA
+target sequence names and starts ['STRG.31.2', 3777, 'STRG.31.3', 2687], query start: 1130, kmer: GCGATCCACTT
+target sequence names and starts ['STRG.60.1', 393], query start: 1158, kmer: ATGGCCAGAAG
+target sequence names and starts ['STRG.2.1', 409, 'STRG.2.2', 409], query start: 1214, kmer: AAGGCGAACTG
+target sequence names and starts ['STRG.3.2', 342], query start: 1219, kmer: GAACTGTTTCG
+target sequence names and starts ['STRG.23.2', 2940], query start: 1225, kmer: TTTCGGAATTA
+target sequence names and starts ['STRG.48.1', 2178, 'STRG.48.2', 2178], query start: 1257, kmer: GGCCACAGATG
+target sequence names and starts ['STRG.27.1', 2711], query start: 1278, kmer: ATTCCAGAGCA
+target sequence names and starts ['STRG.28.1', 72], query start: 1282, kmer: CAGAGCAGCTG
+target sequence names and starts ['STRG.34.1', 871], query start: 1306, kmer: CATTCTTGTGC
+target sequence names and starts ['STRG.34.1', 872], query start: 1307, kmer: ATTCTTGTGCT
+target sequence names and starts ['STRG.23.3', 1515, 'STRG.23.1', 1288, 'STRG.23.2', 1288], query start: 1324, kmer: CATGTGGAGCG
+target sequence names and starts ['STRG.52.1', 2047], query start: 1355, kmer: CGCGGGCAACA
+target sequence names and starts ['STRG.36.1', 2371], query start: 1408, kmer: GGAAAAGCAGC
+target sequence names and starts ['STRG.36.1', 2372], query start: 1409, kmer: GAAAAGCAGCT
+target sequence names and starts ['STRG.45.1', 1074], query start: 1428, kmer: CTTTTTGGCGC
+target sequence names and starts ['STRG.31.2', 4221, 'STRG.31.3', 3131], query start: 1429, kmer: TTTTTGGCGCA
+target sequence names and starts ['STRG.31.1', 559, 'STRG.31.2', 559], query start: 1442, kmer: CCACAGGCGCC
+target sequence names and starts ['STRG.35.1', 783], query start: 1453, kmer: TTCTTCTACGA
+target sequence names and starts ['STRG.35.1', 784], query start: 1454, kmer: TCTTCTACGAC
+target sequence names and starts ['STRG.26.1', 293, 'STRG.26.2', 1315], query start: 1460, kmer: ACGACGACGAG
+target sequence names and starts ['STRG.13.2', 852], query start: 1472, kmer: TGGAGCTGGAG
+target sequence names and starts ['STRG.31.1', 1171, 'STRG.31.2', 1171], query start: 1473, kmer: GGAGCTGGAGA
+target sequence names and starts ['STRG.9.2', 1758, 'STRG.9.3', 1978], query start: 1500, kmer: GGTCAACGCCA
+target sequence names and starts ['STRG.9.2', 1759, 'STRG.9.3', 1979], query start: 1501, kmer: GTCAACGCCAT
+target sequence names and starts ['STRG.28.1', 1275], query start: 1502, kmer: TCAACGCCATC
+target sequence names and starts ['STRG.2.1', 2217, 'STRG.2.2', 2217, 'STRG.26.1', 699, 'STRG.26.2', 1721], query start: 1504, kmer: AACGCCATCAA
+target sequence names and starts ['STRG.49.2', 934, 'STRG.49.1', 854], query start: 1526, kmer: CCGAGCAGACG
+target sequence names and starts ['STRG.51.1', 228], query start: 1527, kmer: CGAGCAGACGG
+target sequence names and starts ['STRG.32.2', 325, 'STRG.32.1', 325], query start: 1530, kmer: GCAGACGGTGC
+target sequence names and starts ['STRG.3.2', 326], query start: 1554, kmer: CATCAAGCGCC
+target sequence names and starts ['STRG.1.1', 3847], query start: 1559, kmer: AGCGCCTGAAG
+target sequence names and starts ['STRG.31.1', 1234, 'STRG.31.2', 1234], query start: 1591, kmer: CTGCAGGAGCA
+target sequence names and starts ['STRG.1.1', 3983], query start: 1637, kmer: AAAATCGAACG
+target sequence names and starts ['STRG.13.2', 3136], query start: 1639, kmer: AATCGAACGTA
+target sequence names and starts ['STRG.20.3', 647, 'STRG.20.1', 10365, 'STRG.20.2', 10950], query start: 1710, kmer: GGACCAAGTTC
+target sequence names and starts ['STRG.20.3', 648, 'STRG.20.1', 10366, 'STRG.20.2', 10951], query start: 1711, kmer: GACCAAGTTCA
+target sequence names and starts ['STRG.20.3', 649, 'STRG.20.1', 10367, 'STRG.20.2', 10952, 'STRG.25.2', 234, 'STRG.25.1', 133], query start: 1712, kmer: ACCAAGTTCAA
+target sequence names and starts ['STRG.20.3', 650, 'STRG.20.1', 10368, 'STRG.20.2', 10953], query start: 1713, kmer: CCAAGTTCAAA
+target sequence names and starts ['STRG.18.1', 18637, 'STRG.13.2', 3154], query start: 1762, kmer: AGAACACGAGA
+target sequence names and starts ['STRG.18.1', 18638], query start: 1763, kmer: GAACACGAGAG
+target sequence names and starts ['STRG.41.2', 2006, 'STRG.41.3', 1945, 'STRG.41.1', 1734], query start: 1770, kmer: AGAGCAAAATA
+target sequence names and starts ['STRG.41.2', 2007, 'STRG.41.3', 1946, 'STRG.41.1', 1735], query start: 1771, kmer: GAGCAAAATAG
+target sequence names and starts ['STRG.9.3', 249], query start: 1785, kmer: GCAAGGAAAAT
+target sequence names and starts ['STRG.18.2', 6681, 'STRG.18.1', 6735], query start: 1786, kmer: CAAGGAAAATG
+target sequence names and starts ['STRG.57.1', 1594, 'STRG.57.2', 1594], query start: 1797, kmer: GGGCACACGAA
+target sequence names and starts ['STRG.2.1', 3712, 'STRG.2.2', 3712], query start: 1800, kmer: CACACGAAAAT
+target sequence names and starts ['STRG.30.1', 349], query start: 1850, kmer: TTAATCCCACC
+target sequence names and starts ['STRG.11.1', 853], query start: 1874, kmer: CGTTTAATGAG
+target sequence names and starts ['STRG.11.1', 854], query start: 1875, kmer: GTTTAATGAGC
+target sequence names and starts ['STRG.13.1', 2803], query start: 1904, kmer: CAGACATTGTG
+target sequence names and starts ['STRG.29.1', 426], query start: 1981, kmer: GCGGAGAAGCC
+target sequence names and starts ['STRG.15.1', 967], query start: 1984, kmer: GAGAAGCCCAA
+target sequence names and starts ['STRG.33.1', 1757], query start: 1996, kmer: CACCAGCTGAC
+target sequence names and starts ['STRG.33.1', 1758], query start: 1997, kmer: ACCAGCTGACC
+target sequence names and starts ['STRG.33.1', 4486, 'STRG.33.2', 4300], query start: 2015, kmer: TGTATCCAGCA
+target sequence names and starts ['STRG.23.3', 282, 'STRG.23.1', 55, 'STRG.23.2', 55], query start: 2022, kmer: AGCACAGGCTA
+target sequence names and starts ['STRG.34.1', 1441], query start: 2104, kmer: GATGATGGTAA
+target sequence names and starts ['STRG.5.1', 1424], query start: 2130, kmer: TCCAATAGCTT
+target sequence names and starts ['STRG.33.1', 2240, 'STRG.33.2', 2057, 'STRG.53.1', 525, 'STRG.53.2', 525], query start: 2174, kmer: GCCAAGGCGGC
+target sequence names and starts ['STRG.26.1', 1031, 'STRG.26.2', 2053], query start: 2180, kmer: GCGGCAGCTCG
+target sequence names and starts ['STRG.20.1', 9690, 'STRG.20.2', 10275], query start: 2193, kmer: TGCAGGACCTT
+target sequence names and starts ['STRG.35.1', 1335], query start: 2201, kmer: CTTCTGCAGCT
+target sequence names and starts ['STRG.20.3', 6546, 'STRG.20.1', 16264, 'STRG.20.2', 16849], query start: 2202, kmer: TTCTGCAGCTG
+target sequence names and starts ['STRG.20.3', 6547, 'STRG.20.1', 16265, 'STRG.20.2', 16850], query start: 2203, kmer: TCTGCAGCTGC
+target sequence names and starts ['STRG.48.1', 2109, 'STRG.48.2', 2109], query start: 2206, kmer: GCAGCTGCGAG
+target sequence names and starts ['STRG.48.1', 2110, 'STRG.48.2', 2110], query start: 2207, kmer: CAGCTGCGAGA
+target sequence names and starts ['STRG.48.1', 2111, 'STRG.48.2', 2111], query start: 2208, kmer: AGCTGCGAGAA
+target sequence names and starts ['STRG.20.3', 851, 'STRG.20.1', 10569, 'STRG.20.2', 11154], query start: 2211, kmer: TGCGAGAAGTC
+target sequence names and starts ['STRG.36.1', 1749], query start: 2247, kmer: AGTTCCAGAAG
+target sequence names and starts ['STRG.26.1', 285, 'STRG.26.2', 1307], query start: 2251, kmer: CCAGAAGGACG
+target sequence names and starts ['STRG.26.1', 286, 'STRG.26.2', 1308], query start: 2252, kmer: CAGAAGGACGA
+target sequence names and starts ['STRG.26.1', 287, 'STRG.26.2', 1309], query start: 2253, kmer: AGAAGGACGAC
+target sequence names and starts ['STRG.26.1', 288, 'STRG.26.2', 1310], query start: 2254, kmer: GAAGGACGACG
+target sequence names and starts ['STRG.26.1', 289, 'STRG.26.2', 1311, 'STRG.31.1', 1432, 'STRG.31.2', 1432, 'STRG.31.3', 342], query start: 2255, kmer: AAGGACGACGA
+target sequence names and starts ['STRG.11.1', 227, 'STRG.26.1', 290, 'STRG.26.2', 1312], query start: 2256, kmer: AGGACGACGAC
+target sequence names and starts ['STRG.37.1', 257], query start: 2336, kmer: GTGGATCTCCT
+target sequence names and starts ['STRG.18.2', 7797, 'STRG.18.1', 7851], query start: 2356, kmer: CACTGAGTTCG
+target sequence names and starts ['STRG.13.1', 3442], query start: 2359, kmer: TGAGTTCGGTC
+target sequence names and starts ['STRG.52.1', 818], query start: 2393, kmer: AATCTGTGCAC
+target sequence names and starts ['STRG.52.1', 819], query start: 2394, kmer: ATCTGTGCACA
+target sequence names and starts ['STRG.52.1', 820], query start: 2395, kmer: TCTGTGCACAC
+target sequence names and starts ['STRG.52.1', 821], query start: 2396, kmer: CTGTGCACACC
+target sequence names and starts ['STRG.18.2', 9042, 'STRG.18.1', 9096], query start: 2440, kmer: AGCACATATTC
+target sequence names and starts ['STRG.9.1', 344, 'STRG.9.2', 344, 'STRG.9.3', 564], query start: 2456, kmer: CAACCTGGAAA
+target sequence names and starts ['STRG.9.1', 345, 'STRG.9.2', 345, 'STRG.9.3', 565], query start: 2457, kmer: AACCTGGAAAC
+target sequence names and starts ['STRG.13.2', 1745], query start: 2474, kmer: CGATCATCTGG
+target sequence names and starts ['STRG.18.2', 10425, 'STRG.18.1', 10479], query start: 2480, kmer: TCTGGAGGAAC
+target sequence names and starts ['STRG.20.1', 4703, 'STRG.20.2', 4703], query start: 2483, kmer: GGAGGAACTGG
+target sequence names and starts ['STRG.20.3', 480, 'STRG.20.1', 10198, 'STRG.20.2', 10783], query start: 2486, kmer: GGAACTGGCGG
+target sequence names and starts ['STRG.20.3', 481, 'STRG.20.1', 10199, 'STRG.20.2', 10784], query start: 2487, kmer: GAACTGGCGGC
+target sequence names and starts ['STRG.20.3', 482, 'STRG.20.1', 10200, 'STRG.20.2', 10785], query start: 2488, kmer: AACTGGCGGCG
+target sequence names and starts ['STRG.36.1', 409], query start: 2508, kmer: ACCTTTGCGGT
+target sequence names and starts ['STRG.31.1', 1952, 'STRG.31.2', 1952, 'STRG.31.3', 862, 'STRG.48.1', 1123, 'STRG.48.2', 1123], query start: 2517, kmer: GTGAACATGAC
+target sequence names and starts ['STRG.33.1', 1430, 'STRG.33.2', 1430], query start: 2655, kmer: GACAGCATCGT
+target sequence names and starts ['STRG.33.1', 1431, 'STRG.33.2', 1431], query start: 2656, kmer: ACAGCATCGTT
+target sequence names and starts ['STRG.48.1', 2573], query start: 2680, kmer: ATCCGCCTCGC
+target sequence names and starts ['STRG.15.1', 879], query start: 2698, kmer: TCCACGACTTG
+target sequence names and starts ['STRG.20.1', 3886, 'STRG.20.2', 3886], query start: 2717, kmer: TGCACTGCAGC
+target sequence names and starts ['STRG.18.2', 16049, 'STRG.18.1', 16103], query start: 2718, kmer: GCACTGCAGCT
+target sequence names and starts ['STRG.31.1', 677, 'STRG.31.2', 677], query start: 2723, kmer: GCAGCTTTTTG
+target sequence names and starts ['STRG.20.1', 2108, 'STRG.20.2', 2108], query start: 2749, kmer: ATGCCAGCTTC
+target sequence names and starts ['STRG.22.1', 665], query start: 2750, kmer: TGCCAGCTTCT
+target sequence names and starts ['STRG.34.1', 533], query start: 2793, kmer: ACCTGCGACTT
+target sequence names and starts ['STRG.48.1', 1740, 'STRG.48.2', 1740], query start: 2795, kmer: CTGCGACTTTG
+target sequence names and starts ['STRG.40.1', 887], query start: 2804, kmer: TGCCGCATCCG
+target sequence names and starts ['STRG.20.3', 4606, 'STRG.20.1', 14324, 'STRG.20.2', 14909], query start: 2808, kmer: GCATCCGGAGG
+target sequence names and starts ['STRG.52.1', 1299], query start: 2810, kmer: ATCCGGAGGTC
+target sequence names and starts ['STRG.37.1', 765], query start: 2832, kmer: ATGGGGCGCTA
+target sequence names and starts ['STRG.14.1', 1564], query start: 2837, kmer: GCGCTATCTGG
+target sequence names and starts ['STRG.14.1', 1565], query start: 2838, kmer: CGCTATCTGGC
+target sequence names and starts ['STRG.23.3', 947, 'STRG.23.1', 720, 'STRG.23.2', 720], query start: 2909, kmer: CGGCGAGGTGT
+target sequence names and starts ['STRG.53.1', 685, 'STRG.53.2', 685], query start: 2966, kmer: TCCTGCAGTTC
+target sequence names and starts ['STRG.53.1', 686, 'STRG.53.2', 686], query start: 2967, kmer: CCTGCAGTTCG
+target sequence names and starts ['STRG.11.1', 231], query start: 2976, kmer: CGACGACGATG
+target sequence names and starts ['STRG.60.1', 871], query start: 2985, kmer: TGGCCAGCGGA
+target sequence names and starts ['STRG.3.1', 176], query start: 3005, kmer: ACATCGAGGTG
+target sequence names and starts ['STRG.20.1', 282, 'STRG.20.2', 282], query start: 3052, kmer: GATCCACGGGG
+target sequence names and starts ['STRG.20.1', 283, 'STRG.20.2', 283], query start: 3053, kmer: ATCCACGGGGT
+target sequence names and starts ['STRG.17.1', 204], query start: 3067, kmer: ATAACGCAGCT
+target sequence names and starts ['STRG.17.1', 205], query start: 3068, kmer: TAACGCAGCTC
+target sequence names and starts ['STRG.12.1', 983], query start: 3080, kmer: ATGTGGACGTC
+target sequence names and starts ['STRG.20.3', 3682, 'STRG.20.1', 13400, 'STRG.20.2', 13985], query start: 3085, kmer: GACGTCAAGGT
+target sequence names and starts ['STRG.54.1', 882], query start: 3087, kmer: CGTCAAGGTGC
+target sequence names and starts ['STRG.59.1', 2319, 'STRG.59.2', 3107], query start: 3091, kmer: AAGGTGCAGAA
+target sequence names and starts ['STRG.59.1', 2320, 'STRG.59.2', 3108], query start: 3092, kmer: AGGTGCAGAAG
+target sequence names and starts ['STRG.51.1', 196], query start: 3095, kmer: TGCAGAAGAAG
+target sequence names and starts ['STRG.20.1', 6460, 'STRG.20.2', 6460], query start: 3098, kmer: AGAAGAAGATG
+target sequence names and starts ['STRG.42.1', 980, 'STRG.42.2', 2182], query start: 3120, kmer: GGCCACCAGAA
+target sequence names and starts ['STRG.60.1', 701], query start: 3165, kmer: GCGGGAGCTGA
+target sequence names and starts ['STRG.44.1', 3208, 'STRG.44.2', 3208], query start: 3195, kmer: CTATCAAGGAT
+target sequence names and starts ['STRG.33.1', 4519, 'STRG.33.2', 4333], query start: 3212, kmer: TGGACCTCATC
+target sequence names and starts ['STRG.54.1', 165], query start: 3213, kmer: GGACCTCATCG
+target sequence names and starts ['STRG.54.1', 166], query start: 3214, kmer: GACCTCATCGA
+target sequence names and starts ['STRG.20.2', 10009], query start: 3225, kmer: TGCCATTGCCC
+target sequence names and starts ['STRG.20.2', 10010], query start: 3226, kmer: GCCATTGCCCG
+target sequence names and starts ['STRG.20.2', 10011], query start: 3227, kmer: CCATTGCCCGA
+target sequence names and starts ['STRG.20.2', 9950], query start: 3298, kmer: AAGGAAACCAA
+target sequence names and starts ['STRG.20.2', 9951], query start: 3299, kmer: AGGAAACCAAG
+target sequence names and starts ['STRG.18.2', 3026, 'STRG.18.1', 3026], query start: 3306, kmer: CAAGCAGTGGA
+target sequence names and starts ['STRG.18.2', 3027, 'STRG.18.1', 3027], query start: 3307, kmer: AAGCAGTGGAA
+target sequence names and starts ['STRG.9.1', 1029, 'STRG.9.2', 1029, 'STRG.9.3', 1249], query start: 3310, kmer: CAGTGGAACGG
+target sequence names and starts ['STRG.23.3', 2287, 'STRG.23.1', 2060, 'STRG.23.2', 2060], query start: 3320, kmer: GCATCATTGGC
+target sequence names and starts ['STRG.23.3', 2288, 'STRG.23.1', 2061, 'STRG.23.2', 2061], query start: 3321, kmer: CATCATTGGCG
+target sequence names and starts ['STRG.23.3', 2289, 'STRG.23.1', 2062, 'STRG.23.2', 2062], query start: 3322, kmer: ATCATTGGCGA
+target sequence names and starts ['STRG.36.1', 1221], query start: 3349, kmer: AGTGGTACCGA
+target sequence names and starts ['STRG.13.1', 3434], query start: 3354, kmer: TACCGAATTGA
+target sequence names and starts ['STRG.13.1', 3435], query start: 3355, kmer: ACCGAATTGAG
+target sequence names and starts ['STRG.53.2', 1358], query start: 3471, kmer: TCATGCAGCTG
+target sequence names and starts ['STRG.36.1', 170], query start: 3513, kmer: ATGTGGAGAAG
+target sequence names and starts ['STRG.10.3', 1206, 'STRG.10.2', 1086], query start: 3536, kmer: TATCTGGATCC
+target sequence names and starts ['STRG.33.1', 3958, 'STRG.33.2', 3772], query start: 3561, kmer: TCTGGATCTGG
+target sequence names and starts ['STRG.18.2', 4044, 'STRG.18.1', 4098], query start: 3563, kmer: TGGATCTGGAT
+target sequence names and starts ['STRG.18.2', 4045, 'STRG.18.1', 4099], query start: 3564, kmer: GGATCTGGATT
+target sequence names and starts ['STRG.33.1', 1345, 'STRG.33.2', 1345], query start: 3577, kmer: CATATCGGTGT
+target sequence names and starts ['STRG.18.2', 8449, 'STRG.18.1', 8503], query start: 3587, kmer: TTGGTGATGAC
+target sequence names and starts ['STRG.18.2', 8450, 'STRG.18.1', 8504], query start: 3588, kmer: TGGTGATGACC
+target sequence names and starts ['STRG.31.2', 3705, 'STRG.31.3', 2615], query start: 3623, kmer: ATCTCCAAAAT
+target sequence names and starts ['STRG.48.1', 2567], query start: 3639, kmer: GGGAGAATCCG
+target sequence names and starts ['STRG.48.1', 2568], query start: 3640, kmer: GGAGAATCCGC
+target sequence names and starts ['STRG.56.1', 684, 'STRG.56.2', 684, 'STRG.56.3', 1882], query start: 3679, kmer: GGAGAACCAGT
+target sequence names and starts ['STRG.18.2', 1937, 'STRG.18.1', 1937], query start: 3685, kmer: CCAGTGGCACA
+target sequence names and starts ['STRG.32.2', 301, 'STRG.32.1', 301], query start: 3694, kmer: CATCCACAACA
+target sequence names and starts ['STRG.2.1', 2083, 'STRG.2.2', 2083], query start: 3708, kmer: GCTGGCTGACT
+target sequence names and starts ['STRG.30.1', 197, 'STRG.14.1', 1822], query start: 3753, kmer: TGCCGAGAAGT
+target sequence names and starts ['STRG.50.1', 125], query start: 3763, kmer: TCCACAGGTGA
+target sequence names and starts ['STRG.44.1', 1968, 'STRG.44.2', 1968], query start: 3787, kmer: AACCTGGCCAA
+target sequence names and starts ['STRG.18.2', 4683, 'STRG.18.1', 4737], query start: 3788, kmer: ACCTGGCCAAA
+target sequence names and starts ['STRG.18.2', 4684, 'STRG.18.1', 4738, 'STRG.60.1', 17], query start: 3789, kmer: CCTGGCCAAAA
+target sequence names and starts ['STRG.60.1', 18], query start: 3790, kmer: CTGGCCAAAAC
+target sequence names and starts ['STRG.60.1', 19], query start: 3791, kmer: TGGCCAAAACA
+target sequence names and starts ['STRG.26.1', 825, 'STRG.26.2', 1847], query start: 3825, kmer: TGCGAATGTTT
+target sequence names and starts ['STRG.18.2', 13515, 'STRG.18.1', 13569], query start: 3869, kmer: GCCAACTCCTA
+target sequence names and starts ['STRG.18.2', 13516, 'STRG.18.1', 13570], query start: 3870, kmer: CCAACTCCTAT
+target sequence names and starts ['STRG.23.3', 1562, 'STRG.23.1', 1335, 'STRG.23.2', 1335], query start: 3913, kmer: CAACATGAAGG
+target sequence names and starts ['STRG.1.1', 373], query start: 3926, kmer: AGCATAACCAA
+target sequence names and starts ['STRG.44.1', 2740, 'STRG.44.2', 2740], query start: 3936, kmer: ACCTGAAGGAT
+target sequence names and starts ['STRG.1.1', 1100], query start: 3940, kmer: GAAGGATCTGA
+target sequence names and starts ['STRG.20.3', 6524, 'STRG.20.1', 16242, 'STRG.20.2', 16827], query start: 3945, kmer: ATCTGAGTGGC
+target sequence names and starts ['STRG.36.1', 236], query start: 3957, kmer: AGAAGAAGGTC
+target sequence names and starts ['STRG.36.1', 237], query start: 3958, kmer: GAAGAAGGTCA
+target sequence names and starts ['STRG.5.1', 2001], query start: 3978, kmer: CCATCTACGGC
+target sequence names and starts ['STRG.18.2', 755, 'STRG.18.1', 755], query start: 3982, kmer: CTACGGCGGCA
+target sequence names and starts ['STRG.18.2', 756, 'STRG.18.1', 756], query start: 3983, kmer: TACGGCGGCAG
+target sequence names and starts ['STRG.18.2', 3968, 'STRG.18.1', 4022], query start: 3985, kmer: CGGCGGCAGCA
+target sequence names and starts ['STRG.34.1', 862], query start: 4036, kmer: CCTGGCCTTCA
+target sequence names and starts ['STRG.21.2', 359, 'STRG.21.1', 359], query start: 4043, kmer: TTCAATCTCAT
+target sequence names and starts ['STRG.18.2', 5051, 'STRG.18.1', 5105], query start: 4062, kmer: ACGACCCATCC
+target sequence names and starts ['STRG.18.2', 16654, 'STRG.18.1', 16708], query start: 4091, kmer: CTGGAGGGAGT
+target sequence names and starts ['STRG.46.1', 1000], query start: 4128, kmer: ACTACATGTTC
+target sequence names and starts ['STRG.20.3', 1630, 'STRG.20.1', 11348, 'STRG.20.2', 11933], query start: 4135, kmer: GTTCCTGATGG
+target sequence names and starts ['STRG.44.1', 794, 'STRG.44.2', 794], query start: 4143, kmer: TGGAGACCACC
+target sequence names and starts ['STRG.9.2', 2149, 'STRG.9.3', 2369], query start: 4173, kmer: AGCAGAACTGC
+target sequence names and starts ['STRG.9.2', 2150, 'STRG.9.3', 2370], query start: 4174, kmer: GCAGAACTGCG
+target sequence names and starts ['STRG.20.1', 7291, 'STRG.20.2', 7291], query start: 4202, kmer: GAAAAGTTTGG
+target sequence names and starts ['STRG.5.1', 2249], query start: 4205, kmer: AAGTTTGGGGA
+target sequence names and starts ['STRG.1.1', 3221], query start: 4213, kmer: GGAGAAGCACT
+target sequence names and starts ['STRG.37.1', 556], query start: 4221, kmer: ACTACGCCATC
+target sequence names and starts ['STRG.48.1', 1728, 'STRG.48.2', 1728], query start: 4240, kmer: CTTCGGTGCGG
+target sequence names and starts ['STRG.48.1', 1729, 'STRG.48.2', 1729], query start: 4241, kmer: TTCGGTGCGGA
+target sequence names and starts ['STRG.26.2', 944], query start: 4244, kmer: GGTGCGGAGTA
+target sequence names and starts ['STRG.23.3', 2109, 'STRG.23.1', 1882, 'STRG.23.2', 1882], query start: 4271, kmer: GTGGCCATCCT
+target sequence names and starts ['STRG.16.1', 211, 'STRG.16.2', 211], query start: 4275, kmer: CCATCCTGAAG
+target sequence names and starts ['STRG.52.1', 277], query start: 4289, kmer: AGTGAGCGGGG
+target sequence names and starts ['STRG.20.3', 5432, 'STRG.20.1', 15150, 'STRG.20.2', 15735, 'STRG.48.1', 179, 'STRG.48.2', 179], query start: 4317, kmer: AGCAAAAGTGG
+target sequence names and starts ['STRG.20.3', 5433, 'STRG.20.1', 15151, 'STRG.20.2', 15736], query start: 4318, kmer: GCAAAAGTGGT
+target sequence names and starts ['STRG.4.1', 2311], query start: 4319, kmer: CAAAAGTGGTG
+target sequence names and starts ['STRG.20.3', 4025, 'STRG.20.1', 13743, 'STRG.20.2', 14328], query start: 4332, kmer: AGAACCCCAAT
+target sequence names and starts ['STRG.36.1', 2259], query start: 4333, kmer: GAACCCCAATG
+target sequence names and starts ['STRG.36.1', 2260], query start: 4334, kmer: AACCCCAATGC
+target sequence names and starts ['STRG.36.1', 2261], query start: 4335, kmer: ACCCCAATGCC
+target sequence names and starts ['STRG.36.1', 2262], query start: 4336, kmer: CCCCAATGCCA
+target sequence names and starts ['STRG.31.1', 976, 'STRG.31.2', 976], query start: 4342, kmer: TGCCAGCTGCT
+target sequence names and starts ['STRG.31.1', 977, 'STRG.31.2', 977], query start: 4343, kmer: GCCAGCTGCTT
+target sequence names and starts ['STRG.31.1', 978, 'STRG.31.2', 978], query start: 4344, kmer: CCAGCTGCTTC
+target sequence names and starts ['STRG.44.1', 879, 'STRG.44.2', 879], query start: 4370, kmer: GACGCCACTCC
+target sequence names and starts ['STRG.57.1', 1068, 'STRG.57.2', 1068], query start: 4386, kmer: TGACCTTCGGC
+target sequence names and starts ['STRG.27.1', 1628], query start: 4390, kmer: CTTCGGCGAGC
+target sequence names and starts ['STRG.23.3', 1071, 'STRG.23.1', 844, 'STRG.23.2', 844], query start: 4427, kmer: GCCGGAATCCT
+target sequence names and starts ['STRG.23.3', 1072, 'STRG.23.1', 845, 'STRG.23.2', 845], query start: 4428, kmer: CCGGAATCCTG
+target sequence names and starts ['STRG.52.1', 2183], query start: 4433, kmer: ATCCTGATCGC
+target sequence names and starts ['STRG.52.1', 2184, 'STRG.56.1', 329, 'STRG.56.2', 329, 'STRG.56.3', 1527], query start: 4434, kmer: TCCTGATCGCC
+target sequence names and starts ['STRG.54.1', 971], query start: 4440, kmer: TCGCCTTCCTC
+target sequence names and starts ['STRG.44.1', 2405, 'STRG.44.2', 2405], query start: 4441, kmer: CGCCTTCCTCA
+target sequence names and starts ['STRG.49.2', 132, 'STRG.49.1', 52], query start: 4455, kmer: GCATTACGGAG
+target sequence names and starts ['STRG.27.1', 1724], query start: 4458, kmer: TTACGGAGTTT
+target sequence names and starts ['STRG.31.1', 11, 'STRG.31.2', 11], query start: 4480, kmer: GCAGCAAGTGG
+target sequence names and starts ['STRG.31.1', 12, 'STRG.31.2', 12], query start: 4481, kmer: CAGCAAGTGGC
+target sequence names and starts ['STRG.5.1', 2857], query start: 4482, kmer: AGCAAGTGGCC
+target sequence names and starts ['STRG.59.2', 417], query start: 4559, kmer: TCACATTTTGC
+target sequence names and starts ['STRG.59.2', 418], query start: 4560, kmer: CACATTTTGCT
+target sequence names and starts ['STRG.28.1', 921], query start: 4561, kmer: ACATTTTGCTC
+target sequence names and starts ['STRG.28.1', 922, 'STRG.59.1', 2835, 'STRG.59.2', 3623], query start: 4562, kmer: CATTTTGCTCA
+target sequence names and starts ['STRG.27.1', 3042], query start: 4586, kmer: AGGAAGCCTTC
+target sequence names and starts ['STRG.13.1', 1891], query start: 4592, kmer: CCTTCAAGAAG
+target sequence names and starts ['STRG.24.1', 676, 'STRG.40.1', 434], query start: 4595, kmer: TCAAGAAGGAG
+target sequence names and starts ['STRG.20.1', 9082, 'STRG.20.2', 9082, 'STRG.24.1', 677, 'STRG.41.2', 831, 'STRG.41.3', 770, 'STRG.41.1', 559, 'STRG.60.1', 482], query start: 4596, kmer: CAAGAAGGAGA
+target sequence names and starts ['STRG.45.1', 303], query start: 4602, kmer: GGAGATCCGCT
+target sequence names and starts ['STRG.44.1', 3523, 'STRG.44.2', 3523], query start: 4643, kmer: CCATCGTGGCC
+target sequence names and starts ['STRG.44.1', 3524, 'STRG.44.2', 3524], query start: 4644, kmer: CATCGTGGCCG
+target sequence names and starts ['STRG.59.2', 159], query start: 4669, kmer: AGTGTGCGGAC
+target sequence names and starts ['STRG.23.3', 620, 'STRG.23.1', 393, 'STRG.23.2', 393], query start: 4673, kmer: TGCGGACGACA
+target sequence names and starts ['STRG.18.2', 11619, 'STRG.18.1', 11673], query start: 4677, kmer: GACGACACCGC
+target sequence names and starts ['STRG.18.2', 2373, 'STRG.18.1', 2373], query start: 4719, kmer: TCCCAAGTCGA
+target sequence names and starts ['STRG.48.1', 55, 'STRG.48.2', 55], query start: 4724, kmer: AGTCGAGTCGC
+target sequence names and starts ['STRG.18.2', 2110, 'STRG.18.1', 2110], query start: 4750, kmer: CGTTCCTCGGA
+target sequence names and starts ['STRG.31.1', 1562, 'STRG.31.2', 1562, 'STRG.31.3', 472], query start: 4757, kmer: CGGAGGAGATG
+target sequence names and starts ['STRG.31.1', 1563, 'STRG.31.2', 1563, 'STRG.31.3', 473, 'STRG.13.1', 104, 'STRG.14.1', 2326], query start: 4758, kmer: GGAGGAGATGC
+target sequence names and starts ['STRG.20.1', 4510, 'STRG.20.2', 4510], query start: 4777, kmer: GCCCAAGGATC
+target sequence names and starts ['STRG.36.1', 855], query start: 4780, kmer: CAAGGATCAGG
+target sequence names and starts ['STRG.1.1', 821], query start: 4821, kmer: GGAACAGAAGG
+target sequence names and starts ['STRG.60.1', 942], query start: 4825, kmer: CAGAAGGAGGC
+target sequence names and starts ['STRG.60.1', 943], query start: 4826, kmer: AGAAGGAGGCG
+target sequence names and starts ['STRG.20.3', 742, 'STRG.20.1', 10460, 'STRG.20.2', 11045], query start: 4836, kmer: GCGGGTTTAAA
+target sequence names and starts ['STRG.5.1', 6374], query start: 4855, kmer: GGATTATTTTA
+target sequence names and starts ['STRG.5.1', 6375], query start: 4856, kmer: GATTATTTTAA
+target sequence names and starts ['STRG.59.2', 106], query start: 4891, kmer: TGTACATTTAA
+target sequence names and starts ['STRG.59.2', 107], query start: 4892, kmer: GTACATTTAAT
+target sequence names and starts ['STRG.2.1', 3244, 'STRG.2.2', 3244], query start: 4902, kmer: TTCCCTAAAAG
+target sequence names and starts ['STRG.2.1', 3245, 'STRG.2.2', 3245], query start: 4903, kmer: TCCCTAAAAGA
+target sequence names and starts ['STRG.2.1', 3246, 'STRG.2.2', 3246], query start: 4904, kmer: CCCTAAAAGAT
+target sequence names and starts ['STRG.23.3', 775, 'STRG.23.1', 548, 'STRG.23.2', 548], query start: 4910, kmer: AAGATTTGTCT
+target sequence names and starts ['STRG.12.1', 375], query start: 4912, kmer: GATTTGTCTAC
+target sequence names and starts ['STRG.12.1', 376], query start: 4913, kmer: ATTTGTCTACC
+target sequence names and starts ['STRG.1.1', 4133], query start: 4941, kmer: TATTTATGATT
+target sequence names and starts ['STRG.1.1', 4134], query start: 4942, kmer: ATTTATGATTT
+target sequence names and starts ['STRG.30.1', 190], query start: 4972, kmer: CGCTCAGTGCC
+target sequence names and starts ['STRG.30.1', 191], query start: 4973, kmer: GCTCAGTGCCG
+target sequence names and starts ['STRG.30.1', 192], query start: 4974, kmer: CTCAGTGCCGA
+target sequence names and starts ['STRG.46.1', 204], query start: 5001, kmer: GAAAGCAACGC
+target sequence names and starts ['STRG.48.1', 588, 'STRG.48.2', 588], query start: 5030, kmer: TCAATTTGGAG
+target sequence names and starts ['STRG.48.1', 589, 'STRG.48.2', 589], query start: 5031, kmer: CAATTTGGAGC
+target sequence names and starts ['STRG.50.1', 31], query start: 5050, kmer: GCTTGTAATTA
+target sequence names and starts ['STRG.51.1', 703], query start: 5058, kmer: TTACTTGGCGG
+target sequence names and starts ['STRG.52.1', 2047], query start: 5087, kmer: CGCGGGCAACA
+target sequence names and starts ['STRG.45.1', 236], query start: 5089, kmer: CGGGCAACACG
+target sequence names and starts ['STRG.23.3', 2105, 'STRG.23.1', 1878, 'STRG.23.2', 1878], query start: 5129, kmer: TTCGGTGGCCA
+target sequence names and starts ['STRG.48.1', 1533, 'STRG.48.2', 1533], query start: 5132, kmer: GGTGGCCAACT
+target sequence names and starts ['STRG.15.1', 196], query start: 5209, kmer: GGCAAGGAGAA
+target sequence names and starts ['STRG.37.1', 428], query start: 5260, kmer: CCTTATTGACA
+target sequence names and starts ['STRG.37.1', 429], query start: 5261, kmer: CTTATTGACAT
+target sequence names and starts ['STRG.28.1', 75], query start: 5333, kmer: AGCAGCTGCAG
+target sequence names and starts ['STRG.14.1', 1684], query start: 5353, kmer: GCGCCAAATGG
+target sequence names and starts ['STRG.20.1', 4243, 'STRG.20.2', 4243], query start: 5359, kmer: AATGGGAGCAG
+target sequence names and starts ['STRG.57.1', 2269, 'STRG.57.2', 2269], query start: 5363, kmer: GGAGCAGAACA
+target sequence names and starts ['STRG.2.1', 1618, 'STRG.2.2', 1618], query start: 5395, kmer: GGAGGATGAAG
+target sequence names and starts ['STRG.31.1', 732, 'STRG.31.2', 732], query start: 5399, kmer: GATGAAGGACG
+target sequence names and starts ['STRG.15.1', 57], query start: 5412, kmer: GGACCAAGAAG
+target sequence names and starts ['STRG.44.1', 3138, 'STRG.44.2', 3138], query start: 5448, kmer: GTGTTGGGTAG
+target sequence names and starts ['STRG.44.1', 3139, 'STRG.44.2', 3139], query start: 5449, kmer: TGTTGGGTAGC
+target sequence names and starts ['STRG.27.1', 1308], query start: 5472, kmer: TTGGTTTGTGT
+target sequence names and starts ['STRG.20.3', 7901, 'STRG.20.1', 17619, 'STRG.20.2', 18204], query start: 5486, kmer: ATGAGCAGCAA
+target sequence names and starts ['STRG.20.3', 7902, 'STRG.20.1', 17620, 'STRG.20.2', 18205], query start: 5487, kmer: TGAGCAGCAAT
+target sequence names and starts ['STRG.20.3', 7903, 'STRG.20.1', 17621, 'STRG.20.2', 18206], query start: 5488, kmer: GAGCAGCAATG
+target sequence names and starts ['STRG.18.2', 14590, 'STRG.18.1', 14644], query start: 5489, kmer: AGCAGCAATGA
+target sequence names and starts ['STRG.46.1', 807], query start: 5500, kmer: CAACGGCAGCG
+target sequence names and starts ['STRG.46.1', 808], query start: 5501, kmer: AACGGCAGCGC
+target sequence names and starts ['STRG.46.1', 809], query start: 5502, kmer: ACGGCAGCGCC
+target sequence names and starts ['STRG.42.2', 572], query start: 5525, kmer: AAAAAACAACA
+target sequence names and starts ['STRG.12.1', 1634, 'STRG.31.2', 4465, 'STRG.31.3', 3375], query start: 5528, kmer: AAACAACAACA
+target sequence names and starts ['STRG.20.3', 166, 'STRG.31.2', 4466, 'STRG.31.2', 4469, 'STRG.31.3', 3376, 'STRG.31.3', 3379], query start: 5529, kmer: AACAACAACAA
+target sequence names and starts ['STRG.18.2', 14670, 'STRG.18.1', 14724], query start: 5530, kmer: ACAACAACAAG
+target sequence names and starts ['STRG.2.1', 2411, 'STRG.2.2', 2411, 'STRG.20.1', 159, 'STRG.20.2', 159], query start: 5531, kmer: CAACAACAAGA
+target sequence names and starts ['STRG.57.1', 337, 'STRG.57.2', 337], query start: 5557, kmer: ATATAGAGTGC
+target sequence names and starts ['STRG.59.2', 400], query start: 5578, kmer: GAAAAACTAAG
+target sequence names and starts ['STRG.20.3', 1721, 'STRG.20.1', 11439, 'STRG.20.2', 12024], query start: 5597, kmer: AGGAATGTGAA
+target sequence names and starts ['STRG.4.1', 1454], query start: 5605, kmer: GAATTTGATTT
+target sequence names and starts ['STRG.4.1', 1455], query start: 5606, kmer: AATTTGATTTT
+target sequence names and starts ['STRG.4.1', 1456], query start: 5607, kmer: ATTTGATTTTA
+target sequence names and starts ['STRG.21.2', 993], query start: 5608, kmer: TTTGATTTTAC
+target sequence names and starts ['STRG.23.2', 2915], query start: 5631, kmer: TTTTATATGCT
+target sequence names and starts ['STRG.23.2', 2916], query start: 5632, kmer: TTTATATGCTG
+target sequence names and starts ['STRG.37.1', 789], query start: 5635, kmer: ATATGCTGCTG
+target sequence names and starts ['STRG.46.1', 760], query start: 5685, kmer: TTTTGAAGGAA
+target sequence names and starts ['STRG.46.1', 761], query start: 5686, kmer: TTTGAAGGAAG
+target sequence names and starts ['STRG.53.2', 2019], query start: 5732, kmer: TCTCAATAATT
+target sequence names and starts ['STRG.18.2', 16573, 'STRG.18.1', 16627], query start: 5754, kmer: AGAGCGTCGCT
+target sequence names and starts ['STRG.18.2', 16574, 'STRG.18.1', 16628], query start: 5755, kmer: GAGCGTCGCTT
+target sequence names and starts ['STRG.3.2', 1365, 'STRG.3.1', 982, 'STRG.3.3', 1218], query start: 5779, kmer: ATTGCATTCCA
+target sequence names and starts ['STRG.1.1', 126], query start: 5844, kmer: TCTGTGTGTTC
+target sequence names and starts ['STRG.55.1', 1305], query start: 5863, kmer: ATTATTTTGTA
+target sequence names and starts ['STRG.27.1', 14], query start: 5882, kmer: GCTTCAGCTTC
+target sequence names and starts ['STRG.13.2', 1152], query start: 5887, kmer: AGCTTCGACTG
+target sequence names and starts ['STRG.13.2', 1153, 'STRG.48.1', 1091, 'STRG.48.2', 1091], query start: 5888, kmer: GCTTCGACTGC
+target sequence names and starts ['STRG.5.1', 2537], query start: 5906, kmer: CGTGAGCCATT
+target sequence names and starts ['STRG.12.1', 1086], query start: 5952, kmer: GGCTGTGGATG
+target sequence names and starts ['STRG.34.1', 637], query start: 5953, kmer: GCTGTGGATGA
+target sequence names and starts ['STRG.44.1', 2888, 'STRG.44.2', 2888], query start: 5961, kmer: TGAGGATGTGG
+target sequence names and starts ['STRG.11.1', 702], query start: 5972, kmer: CCACCAGCACA
+target sequence names and starts ['STRG.33.2', 3732], query start: 5980, kmer: ACAAGAGTCTC
+target sequence names and starts ['STRG.31.1', 191, 'STRG.31.2', 191], query start: 6018, kmer: TGGGTAAAACC
+target sequence names and starts ['STRG.5.1', 5132], query start: 6027, kmer: CCCAACACACT
+target sequence names and starts ['STRG.44.1', 1456, 'STRG.44.2', 1456, 'STRG.60.1', 388], query start: 6077, kmer: AGCTGATGGCC
+target sequence names and starts ['STRG.51.1', 1312], query start: 6092, kmer: TCCACCACCGA
+target sequence names and starts ['STRG.51.1', 1313], query start: 6093, kmer: CCACCACCGAT
+target sequence names and starts ['STRG.51.1', 1314], query start: 6094, kmer: CACCACCGATG
+target sequence names and starts ['STRG.18.2', 5972, 'STRG.18.1', 6026], query start: 6129, kmer: AAAGCGACAAG
+target sequence names and starts ['STRG.37.1', 597], query start: 6178, kmer: CCCAAGGACGA
+target sequence names and starts ['STRG.37.1', 598], query start: 6179, kmer: CCAAGGACGAG
+target sequence names and starts ['STRG.37.1', 599], query start: 6180, kmer: CAAGGACGAGG
+target sequence names and starts ['STRG.37.1', 600], query start: 6181, kmer: AAGGACGAGGA
+target sequence names and starts ['STRG.11.1', 248, 'STRG.37.1', 601], query start: 6182, kmer: AGGACGAGGAG
+target sequence names and starts ['STRG.11.1', 249], query start: 6183, kmer: GGACGAGGAGC
+target sequence names and starts ['STRG.33.1', 3098, 'STRG.33.2', 2915], query start: 6184, kmer: GACGAGGAGCC
+target sequence names and starts ['STRG.33.1', 3099, 'STRG.33.2', 2916], query start: 6185, kmer: ACGAGGAGCCG
+target sequence names and starts ['STRG.31.1', 732, 'STRG.31.2', 732], query start: 6205, kmer: GATGAAGGACG
+target sequence names and starts ['STRG.60.1', 369], query start: 6228, kmer: AAGGCGCGGGA
+target sequence names and starts ['STRG.60.1', 370], query start: 6229, kmer: AGGCGCGGGAT
+target sequence names and starts ['STRG.31.2', 3391, 'STRG.31.3', 2301], query start: 6242, kmer: CATTTGTTAAT
+target sequence names and starts ['STRG.57.1', 2409, 'STRG.57.2', 2409], query start: 6258, kmer: GCACGTAAGCA
+target sequence names and starts ['STRG.55.1', 46], query start: 6260, kmer: ACGTAAGCAAT
+target sequence names and starts ['STRG.53.1', 500, 'STRG.53.2', 500], query start: 6281, kmer: AAGCGCATTCC
+target sequence names and starts ['STRG.4.1', 1336], query start: 6298, kmer: CTTTAATGTAC
+target sequence names and starts ['STRG.14.1', 2999], query start: 6317, kmer: GTTAACAAATT
+target sequence names and starts ['STRG.26.1', 788, 'STRG.26.2', 1810], query start: 6351, kmer: AGGGAAAGGGG
+target sequence names and starts ['STRG.30.1', 281], query start: 6414, kmer: TTCGGCGGCAT
+target sequence names and starts ['STRG.30.1', 282], query start: 6415, kmer: TCGGCGGCATT
+target sequence names and starts ['STRG.14.1', 620], query start: 6452, kmer: CGCATAAACAA
+target sequence names and starts ['STRG.56.1', 1146, 'STRG.56.2', 1146, 'STRG.56.3', 2344], query start: 6456, kmer: TAAACAAATTA
+target sequence names and starts ['STRG.42.1', 1584, 'STRG.42.2', 2786], query start: 6457, kmer: AAACAAATTAA
+target sequence names and starts ['STRG.60.1', 1049], query start: 6518, kmer: CAGCAAGGTGG
+target sequence names and starts ['STRG.31.3', 107], query start: 6586, kmer: TTGGGAAAATT
+target sequence names and starts ['STRG.1.1', 2141], query start: 6610, kmer: CGTGGTGTAAA
+target sequence names and starts ['STRG.1.1', 2142], query start: 6611, kmer: GTGGTGTAAAT
+target sequence names and starts ['STRG.26.2', 21], query start: 6663, kmer: CATAGGGCAAT
+target sequence names and starts ['STRG.40.1', 392], query start: 6715, kmer: CGGACAAACGG
+target sequence names and starts ['STRG.40.1', 393], query start: 6716, kmer: GGACAAACGGA
+target sequence names and starts ['STRG.7.1', 399, 'STRG.7.3', 274, 'STRG.7.4', 274, 'STRG.7.2', 247, 'STRG.7.5', 203, 'STRG.7.6', 323], query start: 6717, kmer: GACAAACGGAC
+target sequence names and starts ['STRG.7.1', 400, 'STRG.7.3', 275, 'STRG.7.4', 275, 'STRG.7.2', 248, 'STRG.7.5', 204, 'STRG.7.6', 324], query start: 6718, kmer: ACAAACGGACA
+target sequence names and starts ['STRG.32.2', 1038, 'STRG.32.1', 1038], query start: 6721, kmer: AACGGACAAGC
+target sequence names and starts ['STRG.1.1', 3810], query start: 6740, kmer: AAACGAACGGA
+target sequence names and starts ['STRG.32.2', 1038, 'STRG.32.1', 1038], query start: 6745, kmer: AACGGACAAGC
+target sequence names and starts ['STRG.59.1', 2981, 'STRG.59.2', 3769], query start: 6778, kmer: CATGGGCTTCA
+target sequence names and starts ['STRG.18.2', 11225, 'STRG.18.1', 11279], query start: 6802, kmer: CTCACTTTGCG
+target sequence names and starts ['STRG.18.2', 11226, 'STRG.18.1', 11280], query start: 6803, kmer: TCACTTTGCGG
+target sequence names and starts ['STRG.31.1', 993, 'STRG.31.2', 993], query start: 6822, kmer: TCTTGAGCAAA
+target sequence names and starts ['STRG.10.6', 384, 'STRG.10.4', 138], query start: 6832, kmer: ATTGAAATTCT
+target sequence names and starts ['STRG.8.1', 627], query start: 6856, kmer: CGTTTCCGCTT
+target sequence names and starts ['STRG.8.1', 628], query start: 6857, kmer: GTTTCCGCTTC
+target sequence names and starts ['STRG.27.1', 3241], query start: 6865, kmer: TTCGGAGGAAC
+target sequence names and starts ['STRG.27.1', 3242], query start: 6866, kmer: TCGGAGGAACG
+target sequence names and starts ['STRG.20.3', 6755, 'STRG.20.1', 16473, 'STRG.20.2', 17058, 'STRG.27.1', 3243], query start: 6867, kmer: CGGAGGAACGG
+target sequence names and starts ['STRG.20.3', 6756, 'STRG.20.1', 16474, 'STRG.20.2', 17059, 'STRG.27.1', 3244], query start: 6868, kmer: GGAGGAACGGA
+target sequence names and starts ['STRG.27.1', 3245], query start: 6869, kmer: GAGGAACGGAG
+target sequence names and starts ['STRG.2.1', 1364, 'STRG.2.2', 1364], query start: 6885, kmer: AGCAATCCAGG
+target sequence names and starts ['STRG.8.1', 581], query start: 6894, kmer: GGGGAGCTACG
+target sequence names and starts ['STRG.20.3', 4528, 'STRG.20.1', 14246, 'STRG.20.2', 14831], query start: 6924, kmer: AATCTTGCAGG
+target sequence names and starts ['STRG.48.1', 252, 'STRG.48.2', 252], query start: 6957, kmer: GCACTCGGTGT
+target sequence names and starts ['STRG.23.3', 319, 'STRG.23.1', 92, 'STRG.23.2', 92], query start: 6983, kmer: AATTGCCGGCA
+target sequence names and starts ['STRG.59.3', 563, 'STRG.59.1', 563, 'STRG.59.2', 1351], query start: 7027, kmer: CAGGGCCATGA
+target sequence names and starts ['STRG.42.1', 1395, 'STRG.42.2', 2597], query start: 7037, kmer: AGTTCCGCCAG
+target sequence names and starts ['STRG.6.1', 991], query start: 7063, kmer: TTTACGCGAAT
+target sequence names and starts ['STRG.13.1', 2766], query start: 7076, kmer: GCAGAGGACTT
+target sequence names and starts ['STRG.13.1', 2767], query start: 7077, kmer: CAGAGGACTTG
+target sequence names and starts ['STRG.1.1', 3721], query start: 7078, kmer: AGAGGACTTGG
+target sequence names and starts ['STRG.20.1', 3977, 'STRG.20.2', 3977], query start: 7121, kmer: TTAAATCTTCT
+target sequence names and starts ['STRG.15.1', 1125], query start: 7170, kmer: AGTATCTATAT
+target sequence names and starts ['STRG.14.1', 655], query start: 7203, kmer: ATTTAAAGGAG
+target sequence names and starts ['STRG.22.1', 884], query start: 7204, kmer: TTTAAAGGAGT
+target sequence names and starts ['STRG.48.1', 629, 'STRG.48.2', 629], query start: 7220, kmer: AATTCAAAAAA
+target sequence names and starts ['STRG.4.1', 383], query start: 7242, kmer: TTGTAGGTATT
+target sequence names and starts ['STRG.44.1', 2717, 'STRG.44.2', 2717], query start: 7266, kmer: GATTATCAATC
+target sequence names and starts ['STRG.27.1', 2927], query start: 7314, kmer: AGAGACATCTC
+target sequence names and starts ['STRG.8.1', 365], query start: 7336, kmer: TCTTTTTCATT
+target sequence names and starts ['STRG.33.1', 712, 'STRG.33.2', 712], query start: 7361, kmer: GAGATTTTAAA
+target sequence names and starts ['STRG.43.3', 1150], query start: 7364, kmer: ATTTTAAAGCG
+target sequence names and starts ['STRG.42.1', 634, 'STRG.42.2', 1836], query start: 7390, kmer: CAGTACCACCC
+target sequence names and starts ['STRG.42.1', 635, 'STRG.42.2', 1837], query start: 7391, kmer: AGTACCACCCA
+target sequence names and starts ['STRG.42.1', 636, 'STRG.42.2', 1838], query start: 7392, kmer: GTACCACCCAC
+target sequence names and starts ['STRG.54.1', 553], query start: 7428, kmer: CGTGTCCTGTG
+target sequence names and starts ['STRG.44.1', 1753, 'STRG.44.2', 1753], query start: 7438, kmer: GAGCAGGACCT
+target sequence names and starts ['STRG.50.1', 365], query start: 7453, kmer: GCAGTTTGCCG
+target sequence names and starts ['STRG.20.1', 3325, 'STRG.20.2', 3325], query start: 7459, kmer: TGCCGTGGCCT
+target sequence names and starts ['STRG.23.2', 2962], query start: 7497, kmer: ACTTGACTGCC
+target sequence names and starts ['STRG.23.2', 2963], query start: 7498, kmer: CTTGACTGCCA
+target sequence names and starts ['STRG.52.1', 1499], query start: 7507, kmer: CAGCTGGCATC
+target sequence names and starts ['STRG.52.1', 1500], query start: 7508, kmer: AGCTGGCATCT
+target sequence names and starts ['STRG.20.1', 9584, 'STRG.20.2', 9584], query start: 7525, kmer: CCGGAGCGTCC
+target sequence names and starts ['STRG.43.3', 996, 'STRG.43.1', 967, 'STRG.43.2', 963], query start: 7562, kmer: CAAAGTGGCCA
+target sequence names and starts ['STRG.18.2', 11738, 'STRG.18.1', 11792], query start: 7564, kmer: AAGTGGCCAGC
+target sequence names and starts ['STRG.42.1', 1451, 'STRG.42.2', 2653], query start: 7568, kmer: GGCCAGCAGTT
+target sequence names and starts ['STRG.36.1', 2274], query start: 7569, kmer: GCCAGCAGTTG
+target sequence names and starts ['STRG.48.1', 1706, 'STRG.48.2', 1706], query start: 7570, kmer: CCAGCAGTTGT
+target sequence names and starts ['STRG.48.1', 1707, 'STRG.48.2', 1707], query start: 7571, kmer: CAGCAGTTGTG
+target sequence names and starts ['STRG.5.1', 2610], query start: 7598, kmer: TTGGTGGACAA
+target sequence names and starts ['STRG.20.1', 5936, 'STRG.20.2', 5936], query start: 7624, kmer: GCAAATGATGA
+target sequence names and starts ['STRG.46.1', 911], query start: 7626, kmer: AAATGATGATG
+target sequence names and starts ['STRG.48.1', 1337, 'STRG.48.2', 1337], query start: 7629, kmer: TGATGATGGAC
+target sequence names and starts ['STRG.11.1', 750, 'STRG.20.1', 1844, 'STRG.20.2', 1844], query start: 7669, kmer: CAACAAACGCA
+target sequence names and starts ['STRG.38.1', 844], query start: 7699, kmer: TTTGCCGCAGA
+target sequence names and starts ['STRG.31.1', 2913, 'STRG.31.2', 2913, 'STRG.31.3', 1823], query start: 7714, kmer: AATTTTCTGCA
+target sequence names and starts ['STRG.20.3', 4552, 'STRG.20.1', 14270, 'STRG.20.2', 14855], query start: 7771, kmer: TCGCTGGCTGC
+target sequence names and starts ['STRG.51.1', 275], query start: 7773, kmer: GCTGGCTGCAC
+target sequence names and starts ['STRG.51.1', 276], query start: 7774, kmer: CTGGCTGCACA
+target sequence names and starts ['STRG.31.1', 2633, 'STRG.31.2', 2633, 'STRG.31.3', 1543], query start: 7791, kmer: AAAAGAAAAAC
+target sequence names and starts ['STRG.31.1', 2634, 'STRG.31.2', 2634, 'STRG.31.3', 1544], query start: 7792, kmer: AAAGAAAAACA
+target sequence names and starts ['STRG.20.3', 3124, 'STRG.20.1', 12842, 'STRG.20.2', 13427, 'STRG.31.1', 2635, 'STRG.31.2', 2635, 'STRG.31.3', 1545], query start: 7793, kmer: AAGAAAAACAA
+target sequence names and starts ['STRG.18.2', 14092, 'STRG.18.1', 14146, 'STRG.20.3', 3125, 'STRG.20.1', 12843, 'STRG.20.2', 13428], query start: 7794, kmer: AGAAAAACAAT
+target sequence names and starts ['STRG.20.3', 3126, 'STRG.20.1', 12844, 'STRG.20.2', 13429, 'STRG.51.1', 524], query start: 7795, kmer: GAAAAACAATT
+target sequence names and starts ['STRG.20.3', 3127, 'STRG.20.1', 12845, 'STRG.20.2', 13430], query start: 7796, kmer: AAAAACAATTG
+target sequence names and starts ['STRG.20.3', 3128, 'STRG.20.1', 12846, 'STRG.20.2', 13431], query start: 7797, kmer: AAAACAATTGC
+target sequence names and starts ['STRG.22.1', 1235], query start: 7803, kmer: ATTGCCGAAAA
+target sequence names and starts ['STRG.56.3', 1348], query start: 7815, kmer: CCATTGCAATT
+target sequence names and starts ['STRG.56.3', 1349], query start: 7816, kmer: CATTGCAATTT
+target sequence names and starts ['STRG.9.1', 1170, 'STRG.9.2', 1170, 'STRG.9.3', 1390], query start: 7838, kmer: GGCAAAGACAA
+target sequence names and starts ['STRG.50.1', 245], query start: 7855, kmer: CGAGCAAATAA
+target sequence names and starts ['STRG.50.1', 246], query start: 7856, kmer: GAGCAAATAAT
+target sequence names and starts ['STRG.50.1', 247], query start: 7857, kmer: AGCAAATAATC
+target sequence names and starts ['STRG.2.1', 2056, 'STRG.2.2', 2056], query start: 7865, kmer: ATCGCAGGCGA
+target sequence names and starts ['STRG.20.1', 4631, 'STRG.20.2', 4631], query start: 7882, kmer: AGCGAAGTGGA
+target sequence names and starts ['STRG.13.2', 502], query start: 7885, kmer: GAAGTGGAGTG
+target sequence names and starts ['STRG.13.2', 503], query start: 7886, kmer: AAGTGGAGTGG
+target sequence names and starts ['STRG.13.2', 504], query start: 7887, kmer: AGTGGAGTGGA
+target sequence names and starts ['STRG.13.2', 505], query start: 7888, kmer: GTGGAGTGGAG
+target sequence names and starts ['STRG.13.2', 504], query start: 7892, kmer: AGTGGAGTGGA
+target sequence names and starts ['STRG.13.2', 505], query start: 7893, kmer: GTGGAGTGGAG
+target sequence names and starts ['STRG.13.2', 506], query start: 7894, kmer: TGGAGTGGAGC
+target sequence names and starts ['STRG.13.2', 507], query start: 7895, kmer: GGAGTGGAGCG
+target sequence names and starts ['STRG.57.1', 1967, 'STRG.57.2', 1967], query start: 7943, kmer: GGAAACGGAAA
+target sequence names and starts ['STRG.9.1', 274, 'STRG.9.2', 274, 'STRG.9.3', 494], query start: 8008, kmer: CCACCCGCTCC
+target sequence names and starts ['STRG.9.1', 275, 'STRG.9.2', 275, 'STRG.9.3', 495], query start: 8009, kmer: CACCCGCTCCC
+target sequence names and starts ['STRG.15.1', 714], query start: 8023, kmer: CTCTGCTGCTA
+target sequence names and starts ['STRG.6.1', 1506], query start: 8034, kmer: TTAGATATTTA
+target sequence names and starts ['STRG.6.1', 1507], query start: 8035, kmer: TAGATATTTAT
+target sequence names and starts ['STRG.2.2', 3908, 'STRG.6.1', 1508], query start: 8036, kmer: AGATATTTATT
+target sequence names and starts ['STRG.2.2', 3909, 'STRG.6.1', 1509], query start: 8037, kmer: GATATTTATTT
+target sequence names and starts ['STRG.6.1', 957], query start: 8043, kmer: TATTTCTGCGG
+target sequence names and starts ['STRG.6.1', 958], query start: 8044, kmer: ATTTCTGCGGA
+target sequence names and starts ['STRG.27.1', 1860], query start: 8057, kmer: TTTGCTGTGTC
+target sequence names and starts ['STRG.23.2', 2972], query start: 8107, kmer: CATTTGTATTC
+target sequence names and starts ['STRG.6.1', 1085, 'STRG.33.1', 25, 'STRG.33.2', 25], query start: 8189, kmer: CGGCAGTGGCA
+target sequence names and starts ['STRG.6.1', 1086, 'STRG.33.1', 26, 'STRG.33.2', 26], query start: 8190, kmer: GGCAGTGGCAG
+target sequence names and starts ['STRG.33.1', 27, 'STRG.33.2', 27], query start: 8191, kmer: GCAGTGGCAGC
+target sequence names and starts ['STRG.57.1', 2478, 'STRG.57.2', 2478], query start: 8238, kmer: CATATGCAACA
+target sequence names and starts ['STRG.15.1', 1118], query start: 8256, kmer: GTTCAGGAGTA
+target sequence names and starts ['STRG.53.1', 41, 'STRG.53.2', 41], query start: 8287, kmer: ATAATTGGTAT
+target sequence names and starts ['STRG.4.1', 2627], query start: 8313, kmer: CAGAAGGTACA
+target sequence names and starts ['STRG.4.1', 2628], query start: 8314, kmer: AGAAGGTACAT
+target sequence names and starts ['STRG.4.1', 2629], query start: 8315, kmer: GAAGGTACATT
+target sequence names and starts ['STRG.4.1', 2630], query start: 8316, kmer: AAGGTACATTA
+target sequence names and starts ['STRG.18.2', 460, 'STRG.18.1', 460], query start: 8318, kmer: GGTACATTACT
+target sequence names and starts ['STRG.30.1', 919], query start: 8333, kmer: GTAACACCTAT
+target sequence names and starts ['STRG.38.1', 174], query start: 8386, kmer: GCTGCAGCTGC
+target sequence names and starts ['STRG.38.1', 175], query start: 8387, kmer: CTGCAGCTGCA
+target sequence names and starts ['STRG.5.1', 4619], query start: 8389, kmer: GCAGCTGCATC
+target sequence names and starts ['STRG.18.2', 1236, 'STRG.18.1', 1236], query start: 8399, kmer: CTCCGCCGCTC
+target sequence names and starts ['STRG.14.1', 634], query start: 8410, kmer: GTTGGCCAATA
+target sequence names and starts ['STRG.1.1', 1388], query start: 8426, kmer: TTTGAAAATAA
+target sequence names and starts ['STRG.54.1', 892], query start: 8545, kmer: CCCACGCCCCT
+target sequence names and starts ['STRG.22.1', 603], query start: 8563, kmer: TTCGCATCTTC
+target sequence names and starts ['STRG.59.3', 2609], query start: 8571, kmer: TTCTATTGAAT
+target sequence names and starts ['STRG.59.1', 3693, 'STRG.59.2', 4481], query start: 8592, kmer: TGCAAGTATGT
+target sequence names and starts ['STRG.59.1', 3694, 'STRG.59.2', 4482], query start: 8593, kmer: GCAAGTATGTG
+target sequence names and starts ['STRG.20.1', 664, 'STRG.20.2', 664], query start: 8605, kmer: CCACCGCCCCC
+target sequence names and starts ['STRG.20.1', 665, 'STRG.20.2', 665], query start: 8606, kmer: CACCGCCCCCC
+target sequence names and starts ['STRG.20.3', 7991, 'STRG.20.1', 17709, 'STRG.20.2', 18294], query start: 8668, kmer: ACAATTTATTT
+target sequence names and starts ['STRG.5.1', 1140, 'STRG.33.1', 5379, 'STRG.33.2', 5193], query start: 8671, kmer: ATTTATTTCTC
+target sequence names and starts ['STRG.5.1', 1141, 'STRG.33.1', 5380, 'STRG.33.2', 5194], query start: 8672, kmer: TTTATTTCTCG
+target sequence names and starts ['STRG.5.1', 1142], query start: 8673, kmer: TTATTTCTCGT
+target sequence names and starts ['STRG.7.4', 688, 'STRG.7.5', 617], query start: 8687, kmer: CGCTGGTGACC
+target sequence names and starts ['STRG.32.2', 1064, 'STRG.32.1', 1064], query start: 8698, kmer: CGTGTATTTTA
+target sequence names and starts ['STRG.8.1', 289], query start: 8719, kmer: ACCCTTTCCAC
+target sequence names and starts ['STRG.53.2', 1294], query start: 8757, kmer: CATGACCACCA
+target sequence names and starts ['STRG.10.3', 903, 'STRG.10.2', 783], query start: 8787, kmer: CCTTGTCCCCC
+target sequence names and starts ['STRG.10.3', 904, 'STRG.10.2', 784], query start: 8788, kmer: CTTGTCCCCCG
+target sequence names and starts ['STRG.42.1', 0, 'STRG.42.2', 0], query start: 8822, kmer: TTTTTCATTCG
+target sequence names and starts ['STRG.3.2', 1796, 'STRG.3.1', 1413, 'STRG.3.3', 1649], query start: 8852, kmer: ATACAATATTT
+target sequence names and starts ['STRG.41.2', 2011, 'STRG.41.3', 1950, 'STRG.41.1', 1739], query start: 8872, kmer: AAAATAGTTTT
+target sequence names and starts ['STRG.8.1', 186], query start: 8873, kmer: AAATAGTTTTC
+target sequence names and starts ['STRG.52.1', 1994], query start: 8887, kmer: ACGCTCTGCGA
+target sequence names and starts ['STRG.13.1', 1131], query start: 8901, kmer: TTGATTGTGTT
+target sequence names and starts ['STRG.13.1', 1132], query start: 8902, kmer: TGATTGTGTTT
+target sequence names and starts ['STRG.27.1', 378], query start: 8927, kmer: GCAGTCGGATG
+target sequence names and starts ['STRG.3.2', 572, 'STRG.3.1', 189, 'STRG.20.1', 526, 'STRG.20.2', 526], query start: 8933, kmer: GGATGGAAATG
+target sequence names and starts ['STRG.5.1', 6010], query start: 8934, kmer: GATGGAAATGG
+target sequence names and starts ['STRG.6.1', 518, 'STRG.50.1', 633], query start: 8935, kmer: ATGGAAATGGA
+target sequence names and starts ['STRG.31.2', 3981, 'STRG.31.3', 2891], query start: 9009, kmer: TTTAAATTTAG
+target sequence names and starts ['STRG.13.1', 48], query start: 9017, kmer: TAGGTTTCTTA
+target sequence names and starts ['STRG.42.1', 1764, 'STRG.42.2', 2966], query start: 9022, kmer: TTCTTATCTAA
+target sequence names and starts ['STRG.1.1', 4511], query start: 9091, kmer: ATTTTTTAAAT
+target sequence names and starts ['STRG.1.1', 4512], query start: 9092, kmer: TTTTTTAAATT
+target sequence names and starts ['STRG.57.2', 3575], query start: 9093, kmer: TTTTTAAATTA
+target sequence names and starts ['STRG.18.2', 11556, 'STRG.18.1', 11610], query start: 9101, kmer: TTACCAACCCA
+target sequence names and starts ['STRG.44.1', 55, 'STRG.44.2', 55], query start: 9132, kmer: TTTTTATAAAA
+target sequence names and starts ['STRG.44.1', 56, 'STRG.44.2', 56], query start: 9133, kmer: TTTTATAAAAA
+target sequence names and starts ['STRG.5.1', 6397], query start: 9145, kmer: ATTTTAAATTA
+target sequence names and starts ['STRG.1.1', 4022], query start: 9148, kmer: TTAAATTAAAT
+target sequence names and starts ['STRG.21.2', 519, 'STRG.21.1', 519], query start: 9150, kmer: AAATTAAATAC
+target sequence names and starts ['STRG.31.2', 4528, 'STRG.31.3', 3438], query start: 9163, kmer: TATATATATTT
+target sequence names and starts ['STRG.15.1', 1104], query start: 9180, kmer: GAAAATAAAAT
+target sequence names and starts ['STRG.9.2', 1954, 'STRG.9.3', 2174], query start: 9181, kmer: AAAATAAAATA
+target sequence names and starts ['STRG.20.3', 7228, 'STRG.20.1', 16946, 'STRG.20.2', 17531], query start: 9192, kmer: TATTTATATAA
+target sequence names and starts ['STRG.20.3', 7229, 'STRG.20.1', 16947, 'STRG.20.2', 17532], query start: 9193, kmer: ATTTATATAAT
+target sequence names and starts ['STRG.20.3', 7230, 'STRG.20.1', 16948, 'STRG.20.2', 17533, 'STRG.57.1', 2674, 'STRG.57.2', 2674], query start: 9194, kmer: TTTATATAATT
+target sequence names and starts ['STRG.19.1', 881, 'STRG.57.1', 2675, 'STRG.57.2', 2675], query start: 9195, kmer: TTATATAATTG
+target sequence names and starts ['STRG.57.1', 2676, 'STRG.57.2', 2676], query start: 9196, kmer: TATATAATTGA
+target sequence names and starts ['STRG.30.1', 1892], query start: 9200, kmer: TAATTGATTTA
+target sequence names and starts ['STRG.42.2', 1137], query start: 9220, kmer: CTATAATTTAA
+target sequence names and starts ['STRG.7.1', 1822, 'STRG.7.3', 1697, 'STRG.7.4', 1697, 'STRG.7.2', 1670, 'STRG.7.5', 1626, 'STRG.7.6', 1746, 'STRG.42.2', 1138], query start: 9221, kmer: TATAATTTAAA
+target sequence names and starts ['STRG.7.1', 1823, 'STRG.7.3', 1698, 'STRG.7.4', 1698, 'STRG.7.2', 1671, 'STRG.7.5', 1627, 'STRG.7.6', 1747], query start: 9222, kmer: ATAATTTAAAC
+target sequence names and starts ['STRG.57.2', 3635], query start: 9223, kmer: TAATTTAAACA
+target sequence names and starts ['STRG.44.1', 3984, 'STRG.44.2', 3984], query start: 9306, kmer: TCGCTGTACAT
+target sequence names and starts ['STRG.44.1', 3985, 'STRG.44.2', 3985], query start: 9307, kmer: CGCTGTACATT
+target sequence names and starts ['STRG.1.1', 3601], query start: 9317, kmer: TTTGTGTTCTA
+target sequence names and starts ['STRG.27.1', 1115], query start: 9318, kmer: TTGTGTTCTAC
+target sequence names and starts ['STRG.26.1', 1483, 'STRG.26.2', 2505], query start: 9326, kmer: TACTATTTTAA
+target sequence names and starts ['STRG.23.3', 2738, 'STRG.23.1', 2511, 'STRG.23.2', 2511], query start: 9346, kmer: GTAAACAAAAC
+target sequence names and starts ['STRG.23.3', 2739, 'STRG.23.1', 2512, 'STRG.23.2', 2512, 'STRG.20.3', 7367, 'STRG.20.1', 17085, 'STRG.20.2', 17670], query start: 9347, kmer: TAAACAAAACA
+target sequence names and starts ['STRG.37.1', 22], query start: 9348, kmer: AAACAAAACAG
+target sequence names and starts ['STRG.18.2', 296, 'STRG.18.1', 296], query start: 9353, kmer: AAACAGACGCA
+target sequence names and starts ['STRG.43.3', 1275], query start: 9363, kmer: AAGTAACATGA
+target sequence names and starts ['STRG.45.1', 975], query start: 9367, kmer: AACATGAACAT
+target sequence names and starts ['STRG.59.1', 3231, 'STRG.59.2', 4019], query start: 9370, kmer: ATGAACATGAA
+target sequence names and starts ['STRG.59.1', 3232, 'STRG.59.2', 4020], query start: 9371, kmer: TGAACATGAAC
+target sequence names and starts ['STRG.42.1', 1003, 'STRG.42.2', 2205], query start: 9403, kmer: AGTGCAGTTTT
+target sequence names and starts ['STRG.57.2', 3406], query start: 9409, kmer: GTTTTGAATTA
+target sequence names and starts ['STRG.27.1', 3564, 'STRG.42.2', 746], query start: 9477, kmer: AAACAAACAAA
+target sequence names and starts ['STRG.48.1', 3316], query start: 9488, kmer: GTACATATACT
+target sequence names and starts ['STRG.5.1', 2052], query start: 9506, kmer: CTGTCAATTAT
+target sequence names and starts ['STRG.57.2', 3581], query start: 9511, kmer: AATTATAAATC
+target sequence names and starts ['STRG.20.1', 5388, 'STRG.20.2', 5388], query start: 9522, kmer: ATGCTGCAAAT
+target sequence names and starts ['STRG.41.2', 2644, 'STRG.41.3', 2583], query start: 9527, kmer: GCAAATATTTG
+target sequence names and starts ['STRG.7.1', 323, 'STRG.7.3', 198, 'STRG.7.4', 198, 'STRG.7.2', 171, 'STRG.7.5', 127, 'STRG.7.6', 247], query start: 9622, kmer: TTATAGCACTG
+target sequence names and starts ['STRG.20.1', 7682, 'STRG.20.2', 7682], query start: 9640, kmer: GTGTACAGAAA
+target sequence names and starts ['STRG.20.1', 7683, 'STRG.20.2', 7683], query start: 9641, kmer: TGTACAGAAAA
+target sequence names and starts ['STRG.42.2', 580], query start: 9644, kmer: ACAGAAAAGCA
+target sequence names and starts ['STRG.21.2', 837, 'STRG.21.1', 837], query start: 9646, kmer: AGAAAAGCACC
+target sequence names and starts ['STRG.41.2', 2575, 'STRG.41.3', 2514], query start: 9698, kmer: AAATTTTACAT
+target sequence names and starts ['STRG.41.2', 2576, 'STRG.41.3', 2515], query start: 9699, kmer: AATTTTACATT
+target sequence names and starts ['STRG.41.2', 2577, 'STRG.41.3', 2516], query start: 9700, kmer: ATTTTACATTT
+target sequence names and starts ['STRG.18.2', 15466, 'STRG.18.1', 15520], query start: 9706, kmer: CATTTGTATAA
+target sequence names and starts ['STRG.4.1', 1958], query start: 9713, kmer: ATAAAAACAAT
+target sequence names and starts ['STRG.16.1', 563, 'STRG.16.2', 563], query start: 9772, kmer: TAATGTACAAA
+target sequence names and starts ['STRG.16.1', 564, 'STRG.16.2', 564], query start: 9773, kmer: AATGTACAAAT
+target sequence names and starts ['STRG.18.2', 16980, 'STRG.18.1', 17034], query start: 9792, kmer: AACCAAACCCA
+target sequence names and starts ['STRG.20.1', 5412, 'STRG.20.2', 5412], query start: 9794, kmer: CCAAACCCAAT
+target sequence names and starts ['STRG.25.1', 771], query start: 9814, kmer: TTCAATTAAAA
+target sequence names and starts ['STRG.25.1', 772], query start: 9815, kmer: TCAATTAAAAA
+target sequence names and starts ['STRG.1.1', 4880, 'STRG.25.1', 773], query start: 9816, kmer: CAATTAAAAAA
+target sequence names and starts ['STRG.57.2', 2981], query start: 9836, kmer: CATAAGCAAAA
+target sequence names and starts ['STRG.26.1', 2032, 'STRG.26.2', 3054], query start: 9892, kmer: ATGTATTTGTA
+target sequence names and starts ['STRG.56.3', 1219, 'STRG.48.1', 2844], query start: 9895, kmer: TATTTGTATTT
+target sequence names and starts ['STRG.7.1', 1445, 'STRG.7.3', 1320, 'STRG.7.4', 1320, 'STRG.7.2', 1293, 'STRG.7.5', 1249, 'STRG.7.6', 1369], query start: 9907, kmer: AAAAAGAACTT
+target sequence names and starts ['STRG.20.1', 3903, 'STRG.20.2', 3903], query start: 9931, kmer: TACAGGAACTG
+target sequence names and starts ['STRG.26.1', 2011, 'STRG.26.2', 3033], query start: 9975, kmer: ATTTTCGCCGA
+target sequence names and starts ['STRG.32.2', 694, 'STRG.32.1', 694], query start: 9997, kmer: CCGCTCCGGCT
+target sequence names and starts ['STRG.2.1', 1860, 'STRG.2.2', 1860], query start: 10014, kmer: CAGAAAACTGT
+target sequence names and starts ['STRG.4.1', 220, 'STRG.20.3', 1686, 'STRG.20.1', 11404, 'STRG.20.2', 11989], query start: 10015, kmer: AGAAAACTGTT
+target sequence names and starts ['STRG.4.1', 221], query start: 10016, kmer: GAAAACTGTTG
+target sequence names and starts ['STRG.6.1', 1375], query start: 10050, kmer: AAAAGTAACCA
+target sequence names and starts ['STRG.14.1', 2623], query start: 10075, kmer: CAACAACTCAA
+target sequence names and starts ['STRG.14.1', 606], query start: 10104, kmer: AGGCCGAAGTC
+target sequence names and starts ['STRG.59.1', 2953, 'STRG.59.2', 3741], query start: 10163, kmer: GAGTCGGAGCA
+target sequence names and starts ['STRG.18.2', 2655, 'STRG.18.1', 2655], query start: 10229, kmer: CTCCGAGTCGT
+target sequence names and starts ['STRG.18.2', 14481, 'STRG.18.1', 14535], query start: 10239, kmer: TGCGGTCAGCA
+target sequence names and starts ['STRG.57.1', 1967, 'STRG.57.2', 1967], query start: 10259, kmer: GGAAACGGAAA
+target sequence names and starts ['STRG.42.1', 923, 'STRG.42.2', 2125], query start: 10274, kmer: AACGCCAACAA
+target sequence names and starts ['STRG.22.1', 416], query start: 10279, kmer: CAACAAATCCT
+target sequence names and starts ['STRG.22.1', 417], query start: 10280, kmer: AACAAATCCTG
+target sequence names and starts ['STRG.22.1', 418], query start: 10281, kmer: ACAAATCCTGG
+target sequence names and starts ['STRG.13.1', 3096], query start: 10299, kmer: AAGTGGCAAGT
+target sequence names and starts ['STRG.41.2', 539, 'STRG.41.3', 478, 'STRG.41.1', 267], query start: 10304, kmer: GCAAGTGCTGC
+target sequence names and starts ['STRG.58.1', 1051], query start: 10330, kmer: GATGTGGCTGC
+target sequence names and starts ['STRG.33.1', 4857, 'STRG.33.2', 4671], query start: 10369, kmer: CCTCGATTAGA
+target sequence names and starts ['STRG.2.2', 3875], query start: 10379, kmer: AATCCAGAATA
+target sequence names and starts ['STRG.2.2', 3876], query start: 10380, kmer: ATCCAGAATAT
+target sequence names and starts ['STRG.18.2', 3643, 'STRG.18.1', 3697], query start: 10436, kmer: CATCATTCCAA
+target sequence names and starts ['STRG.18.2', 3644, 'STRG.18.1', 3698], query start: 10437, kmer: ATCATTCCAAT
+target sequence names and starts ['STRG.5.1', 6101], query start: 10467, kmer: GAGTTTTCAAA
+target sequence names and starts ['STRG.27.1', 42], query start: 10522, kmer: TTTTTGTTTTC
+target sequence names and starts ['STRG.59.3', 2108], query start: 10523, kmer: TTTTGTTTTCG
+target sequence names and starts ['STRG.38.1', 662], query start: 10543, kmer: GCGTGTGTGTG
+target sequence names and starts ['STRG.9.1', 1258, 'STRG.9.2', 1258, 'STRG.9.3', 1478], query start: 10553, kmer: GTGTGCGAGTG
+target sequence names and starts ['STRG.28.1', 676], query start: 10563, kmer: GTGTGTGGGTG
+target sequence names and starts ['STRG.18.2', 4191, 'STRG.18.1', 4245], query start: 10579, kmer: GCCGCTGTGTG
+target sequence names and starts ['STRG.59.2', 363], query start: 10584, kmer: TGTGTGCGTGG
+target sequence names and starts ['STRG.59.2', 364], query start: 10585, kmer: GTGTGCGTGGC
+target sequence names and starts ['STRG.59.2', 365], query start: 10586, kmer: TGTGCGTGGCA
+target sequence names and starts ['STRG.23.2', 2933], query start: 10624, kmer: GGATACATTTC
+target sequence names and starts ['STRG.42.1', 712, 'STRG.42.2', 1914], query start: 10663, kmer: GTGCTGCAGAA
+target sequence names and starts ['STRG.18.2', 9875, 'STRG.18.1', 9929], query start: 10666, kmer: CTGCAGAAACA
+target sequence names and starts ['STRG.36.1', 2246], query start: 10667, kmer: TGCAGAAACAG
+target sequence names and starts ['STRG.36.1', 2247], query start: 10668, kmer: GCAGAAACAGC
+target sequence names and starts ['STRG.18.2', 2870, 'STRG.18.1', 2870, 'STRG.27.1', 3097], query start: 10670, kmer: AGAAACAGCAA
+target sequence names and starts ['STRG.18.2', 2871, 'STRG.18.1', 2871], query start: 10671, kmer: GAAACAGCAAC
+target sequence names and starts ['STRG.2.1', 834, 'STRG.2.2', 834], query start: 10675, kmer: CAGCAACCCAA
+target sequence names and starts ['STRG.52.1', 107], query start: 10748, kmer: AAAACCAAGAA
+target sequence names and starts ['STRG.59.3', 315, 'STRG.59.1', 315, 'STRG.59.2', 1103], query start: 10754, kmer: AAGAAAATGCC
+target sequence names and starts ['STRG.22.1', 639], query start: 10760, kmer: ATGCCAAGATG
+target sequence names and starts ['STRG.22.1', 640], query start: 10761, kmer: TGCCAAGATGC
+target sequence names and starts ['STRG.20.3', 6929, 'STRG.20.1', 16647, 'STRG.20.2', 17232], query start: 10766, kmer: AGATGCGGATG
+target sequence names and starts ['STRG.34.1', 297], query start: 10768, kmer: ATGCGGATGAG
+target sequence names and starts ['STRG.6.1', 233], query start: 10785, kmer: ACGCGGGCGGG
+target sequence names and starts ['STRG.14.1', 2877], query start: 10861, kmer: CCCAGATCCAA
+target sequence names and starts ['STRG.54.1', 969], query start: 10925, kmer: CCTCGCCTTCC
+target sequence names and starts ['STRG.54.1', 970], query start: 10926, kmer: CTCGCCTTCCT
+target sequence names and starts ['STRG.52.1', 1744], query start: 10931, kmer: CTTCCTTGGCG
+target sequence names and starts ['STRG.3.2', 870, 'STRG.3.1', 487, 'STRG.3.3', 723], query start: 10970, kmer: GAGTTTTCCAT
+target sequence names and starts ['STRG.53.2', 1269], query start: 10982, kmer: TCTGGTGTATA
+target sequence names and starts ['STRG.20.1', 37, 'STRG.20.2', 37], query start: 11004, kmer: AAATTTGCTGC
+target sequence names and starts ['STRG.13.1', 800], query start: 11017, kmer: GTTTATGTTTT
+target sequence names and starts ['STRG.13.1', 801], query start: 11018, kmer: TTTATGTTTTC
+target sequence names and starts ['STRG.28.1', 36], query start: 11040, kmer: GTTTGTGTTTT
+target sequence names and starts ['STRG.1.1', 1008, 'STRG.22.1', 3, 'STRG.28.1', 37], query start: 11041, kmer: TTTGTGTTTTG
+target sequence names and starts ['STRG.28.1', 38], query start: 11042, kmer: TTGTGTTTTGG
+target sequence names and starts ['STRG.5.1', 4474], query start: 11055, kmer: CCTGCAAAACT
+target sequence names and starts ['STRG.3.2', 1580, 'STRG.3.1', 1197, 'STRG.3.3', 1433], query start: 11071, kmer: TTTTAAATATA
+target sequence names and starts ['STRG.3.2', 1581, 'STRG.3.1', 1198, 'STRG.3.3', 1434], query start: 11072, kmer: TTTAAATATAA
+target sequence names and starts ['STRG.18.2', 8189, 'STRG.18.1', 8243], query start: 11099, kmer: AGGAAATCAAG
+target sequence names and starts ['STRG.57.1', 1854, 'STRG.57.2', 1854], query start: 11126, kmer: ACTGGTACAAA
+target sequence names and starts ['STRG.23.3', 2651, 'STRG.23.1', 2424, 'STRG.23.2', 2424], query start: 11131, kmer: TACAAAAAAGA
+target sequence names and starts ['STRG.18.2', 7019, 'STRG.18.1', 7073], query start: 11145, kmer: GTAGTTCACAT
+target sequence names and starts ['STRG.18.2', 7020, 'STRG.18.1', 7074], query start: 11146, kmer: TAGTTCACATA
+target sequence names and starts ['STRG.8.1', 423], query start: 11189, kmer: GTTTTCCAAAC
+target sequence names and starts ['STRG.8.1', 424], query start: 11190, kmer: TTTTCCAAACC
+target sequence names and starts ['STRG.8.1', 425], query start: 11191, kmer: TTTCCAAACCA
+target sequence names and starts ['STRG.8.1', 426], query start: 11192, kmer: TTCCAAACCAA
+target sequence names and starts ['STRG.31.2', 3893, 'STRG.31.3', 2803], query start: 11201, kmer: AACTTATTTAA
+target sequence names and starts ['STRG.31.2', 3894, 'STRG.31.3', 2804], query start: 11202, kmer: ACTTATTTAAC
+target sequence names and starts ['STRG.31.2', 3895, 'STRG.31.3', 2805], query start: 11203, kmer: CTTATTTAACT
+target sequence names and starts ['STRG.31.2', 3896, 'STRG.31.3', 2806], query start: 11204, kmer: TTATTTAACTT
+target sequence names and starts ['STRG.59.1', 3995, 'STRG.59.2', 4783], query start: 11250, kmer: AAATTTACACA
+target sequence names and starts ['STRG.34.1', 1393], query start: 11256, kmer: ACACAGCTTTC
+target sequence names and starts ['STRG.18.2', 235, 'STRG.18.1', 235], query start: 11259, kmer: CAGCTTTCGTG
+target sequence names and starts ['STRG.2.1', 2690, 'STRG.2.2', 2690], query start: 11269, kmer: GAAGTATTTCC
+target sequence names and starts ['STRG.20.3', 7995, 'STRG.20.1', 17713, 'STRG.20.2', 18298], query start: 11289, kmer: TTTATTTTGAG
+target sequence names and starts ['STRG.34.1', 1083], query start: 11295, kmer: TTGAGCCTATT
+target sequence names and starts ['STRG.20.1', 3015, 'STRG.20.2', 3015], query start: 11321, kmer: CACATCACCTG
+target sequence names and starts ['STRG.20.1', 3016, 'STRG.20.2', 3016], query start: 11322, kmer: ACATCACCTGA
+target sequence names and starts ['STRG.18.2', 16858, 'STRG.18.1', 16912], query start: 11350, kmer: ATATTTCCATC
+target sequence names and starts ['STRG.18.2', 16859, 'STRG.18.1', 16913], query start: 11351, kmer: TATTTCCATCA
+target sequence names and starts ['STRG.56.3', 953], query start: 11395, kmer: CATGCAAATGC
+target sequence names and starts ['STRG.56.3', 954], query start: 11396, kmer: ATGCAAATGCC
+target sequence names and starts ['STRG.4.1', 107], query start: 11404, kmer: GCCACAGCAAT
+target sequence names and starts ['STRG.4.1', 108], query start: 11405, kmer: CCACAGCAATT
+target sequence names and starts ['STRG.4.1', 109], query start: 11406, kmer: CACAGCAATTG
+target sequence names and starts ['STRG.20.1', 6287, 'STRG.20.2', 6287], query start: 11408, kmer: CAGCAATTGAA
+target sequence names and starts ['STRG.31.1', 1697, 'STRG.31.2', 1697, 'STRG.31.3', 607, 'STRG.44.1', 3216, 'STRG.44.2', 3216], query start: 11423, kmer: GATTTGCTGCC
+target sequence names and starts ['STRG.44.1', 3217, 'STRG.44.2', 3217], query start: 11424, kmer: ATTTGCTGCCT
+target sequence names and starts ['STRG.52.1', 1114], query start: 11430, kmer: TGCCTGCCGGC
+target sequence names and starts ['STRG.18.2', 2177, 'STRG.18.1', 2177], query start: 11477, kmer: GGGTTAAGGTT
+target sequence names and starts ['STRG.13.2', 2967], query start: 11513, kmer: ATTTTGTTATT
+target sequence names and starts ['STRG.13.2', 2968], query start: 11514, kmer: TTTTGTTATTG
+target sequence names and starts ['STRG.13.2', 2969], query start: 11515, kmer: TTTGTTATTGT
+target sequence names and starts ['STRG.13.2', 2121], query start: 11550, kmer: CGCATCCGCTT
+target sequence names and starts ['STRG.13.2', 2122], query start: 11551, kmer: GCATCCGCTTC
+target sequence names and starts ['STRG.20.3', 4044, 'STRG.20.1', 13762, 'STRG.20.2', 14347], query start: 11590, kmer: GGATCCAAAGT
+target sequence names and starts ['STRG.20.1', 5322, 'STRG.20.2', 5322], query start: 11611, kmer: GCAGTCAACTG
+target sequence names and starts ['STRG.20.1', 5323, 'STRG.20.2', 5323], query start: 11612, kmer: CAGTCAACTGG
+target sequence names and starts ['STRG.18.2', 15243, 'STRG.18.1', 15297], query start: 11635, kmer: GCAGCCGCAAA
+target sequence names and starts ['STRG.59.1', 3252, 'STRG.59.2', 4040], query start: 11639, kmer: CCGCAAAACTT
+target sequence names and starts ['STRG.59.1', 3253, 'STRG.59.2', 4041], query start: 11640, kmer: CGCAAAACTTT
+target sequence names and starts ['STRG.5.1', 5880], query start: 11660, kmer: AAGTGGCAATT
+target sequence names and starts ['STRG.18.2', 284, 'STRG.18.1', 284], query start: 11672, kmer: GTGTAGCCGCG
+target sequence names and starts ['STRG.20.3', 5480, 'STRG.20.1', 15198, 'STRG.20.2', 15783], query start: 11675, kmer: TAGCCGCGCTT
+target sequence names and starts ['STRG.20.3', 5481, 'STRG.20.1', 15199, 'STRG.20.2', 15784], query start: 11676, kmer: AGCCGCGCTTC
+target sequence names and starts ['STRG.15.1', 993], query start: 11689, kmer: GCTCACAAAGT
+target sequence names and starts ['STRG.51.1', 162], query start: 11701, kmer: GGGCAAAAAGC
+target sequence names and starts ['STRG.34.1', 980], query start: 11734, kmer: CGAAAGCCTTT
+target sequence names and starts ['STRG.9.1', 1406, 'STRG.9.2', 1406, 'STRG.9.3', 1626, 'STRG.59.3', 2179], query start: 11770, kmer: TGTTTAATTTT
+target sequence names and starts ['STRG.9.1', 1407, 'STRG.9.2', 1407, 'STRG.9.3', 1627, 'STRG.24.1', 1682], query start: 11771, kmer: GTTTAATTTTT
+target sequence names and starts ['STRG.31.1', 3205, 'STRG.31.2', 3205, 'STRG.31.3', 2115], query start: 11773, kmer: TTAATTTTTAA
+target sequence names and starts ['STRG.4.1', 2660], query start: 11800, kmer: AAAAGAAAACT
+target sequence names and starts ['STRG.41.2', 2667, 'STRG.41.3', 2606], query start: 11805, kmer: AAAACTCAAAT
+target sequence names and starts ['STRG.41.2', 2668, 'STRG.41.3', 2607], query start: 11806, kmer: AAACTCAAATT
+target sequence names and starts ['STRG.41.2', 2669, 'STRG.41.3', 2608], query start: 11807, kmer: AACTCAAATTA
+target sequence names and starts ['STRG.41.2', 2670, 'STRG.41.3', 2609], query start: 11808, kmer: ACTCAAATTAA
+target sequence names and starts ['STRG.6.1', 1527], query start: 11817, kmer: AAAATGTATAA
+target sequence names and starts ['STRG.6.1', 1528], query start: 11818, kmer: AAATGTATAAA
+target sequence names and starts ['STRG.1.1', 4320], query start: 11822, kmer: GTATAAACACA
+target sequence names and starts ['STRG.1.1', 4321, 'STRG.53.1', 80, 'STRG.53.2', 80], query start: 11823, kmer: TATAAACACAA
+target sequence names and starts ['STRG.1.1', 4322, 'STRG.49.2', 1300, 'STRG.49.1', 1220], query start: 11824, kmer: ATAAACACAAA
+target sequence names and starts ['STRG.52.1', 1590], query start: 11838, kmer: GCAGTGAGAGA
+target sequence names and starts ['STRG.4.1', 1526], query start: 11897, kmer: GCTTTTGCATT
+target sequence names and starts ['STRG.4.1', 1527], query start: 11898, kmer: CTTTTGCATTC
+target sequence names and starts ['STRG.1.1', 4860, 'STRG.1.1', 5071, 'STRG.4.1', 1528], query start: 11899, kmer: TTTTGCATTCT
+target sequence names and starts ['STRG.1.1', 5072, 'STRG.31.2', 3752, 'STRG.31.3', 2662], query start: 11900, kmer: TTTGCATTCTC
+target sequence names and starts ['STRG.4.1', 2038], query start: 11920, kmer: ACATATTTTGA
+target sequence names and starts ['STRG.42.2', 787], query start: 11957, kmer: AGCCCATAAAA
+target sequence names and starts ['STRG.38.1', 611], query start: 11979, kmer: TCAAATCCATC
+target sequence names and starts ['STRG.38.1', 612], query start: 11980, kmer: CAAATCCATCC
+target sequence names and starts ['STRG.4.1', 485], query start: 12020, kmer: CACTGGCGACA
+target sequence names and starts ['STRG.2.1', 67, 'STRG.2.2', 67], query start: 12058, kmer: AAGTGAATAAA
+target sequence names and starts ['STRG.22.1', 36], query start: 12061, kmer: TGAATAAAAAA
+target sequence names and starts ['STRG.3.2', 1766, 'STRG.3.1', 1383, 'STRG.3.3', 1619], query start: 12063, kmer: AATAAAAAAGT
+target sequence names and starts ['STRG.3.2', 1767, 'STRG.3.1', 1384, 'STRG.3.3', 1620], query start: 12064, kmer: ATAAAAAAGTG
+target sequence names and starts ['STRG.3.2', 1768, 'STRG.3.1', 1385, 'STRG.3.3', 1621], query start: 12065, kmer: TAAAAAAGTGA
+target sequence names and starts ['STRG.42.2', 1382], query start: 12068, kmer: AAAAGTGAATG
+target sequence names and starts ['STRG.14.1', 3290], query start: 12197, kmer: GTTCGGGCAAG
+target sequence names and starts ['STRG.57.1', 2100, 'STRG.57.2', 2100], query start: 12200, kmer: CGGGCAAGTCG
+target sequence names and starts ['STRG.53.2', 1832], query start: 12265, kmer: AAATGCCGCCT
+target sequence names and starts ['STRG.9.2', 2130, 'STRG.9.3', 2350, 'STRG.24.1', 1737], query start: 12302, kmer: TAAATACATTT
+target sequence names and starts ['STRG.57.1', 35, 'STRG.57.2', 35], query start: 12314, kmer: CGTGAAAGAAA
+target sequence names and starts ['STRG.2.1', 2842, 'STRG.2.2', 2842], query start: 12317, kmer: GAAAGAAAATC
+target sequence names and starts ['STRG.2.1', 2843, 'STRG.2.2', 2843], query start: 12318, kmer: AAAGAAAATCC
+target sequence names and starts ['STRG.2.1', 2844, 'STRG.2.2', 2844], query start: 12319, kmer: AAGAAAATCCC
+target sequence names and starts ['STRG.48.1', 326, 'STRG.48.2', 326], query start: 12372, kmer: GCAATCGGAAA
+target sequence names and starts ['STRG.48.1', 327, 'STRG.48.2', 327], query start: 12373, kmer: CAATCGGAAAA
+target sequence names and starts ['STRG.59.1', 3908, 'STRG.59.2', 4696], query start: 12455, kmer: TTTTTAGCCTA
+target sequence names and starts ['STRG.59.1', 3909, 'STRG.59.2', 4697], query start: 12456, kmer: TTTTAGCCTAA
+target sequence names and starts ['STRG.4.1', 861], query start: 12468, kmer: TAAATTCATTT
+target sequence names and starts ['STRG.1.1', 3474, 'STRG.51.1', 1162], query start: 12479, kmer: GTGTTCAGCAA
+target sequence names and starts ['STRG.1.1', 3475], query start: 12480, kmer: TGTTCAGCAAG
+target sequence names and starts ['STRG.20.3', 2865, 'STRG.20.1', 12583, 'STRG.20.2', 13168, 'STRG.38.1', 1753], query start: 12481, kmer: GTTCAGCAAGC
+target sequence names and starts ['STRG.18.2', 11157, 'STRG.18.1', 11211], query start: 12483, kmer: TCAGCAAGCAA
+target sequence names and starts ['STRG.9.3', 390], query start: 12518, kmer: CAATCCAAGAA
+target sequence names and starts ['STRG.37.1', 665], query start: 12532, kmer: AAGTAATTTTG
+target sequence names and starts ['STRG.20.3', 7627, 'STRG.20.1', 17345, 'STRG.20.2', 17930], query start: 12534, kmer: GTAATTTTGAT
+target sequence names and starts ['STRG.12.1', 1655], query start: 12536, kmer: AATTTTGATTA
+target sequence names and starts ['STRG.45.1', 885], query start: 12537, kmer: ATTTTGATTAT
+target sequence names and starts ['STRG.36.1', 2665, 'STRG.45.1', 886], query start: 12538, kmer: TTTTGATTATT
+target sequence names and starts ['STRG.3.2', 1682, 'STRG.3.1', 1299, 'STRG.3.3', 1535], query start: 12589, kmer: CAAAAATATGC
+target sequence names and starts ['STRG.20.3', 4915, 'STRG.20.1', 14633, 'STRG.20.2', 15218], query start: 12614, kmer: GGTTCCGCATA
+target sequence names and starts ['STRG.32.2', 71, 'STRG.32.1', 71], query start: 12622, kmer: ATAATTGAAAA
+target sequence names and starts ['STRG.32.2', 72, 'STRG.32.1', 72], query start: 12623, kmer: TAATTGAAAAT
+target sequence names and starts ['STRG.38.1', 794], query start: 12624, kmer: AATTGAAAATG
+target sequence names and starts ['STRG.58.1', 195], query start: 12639, kmer: CCGAGTTTACG
+target sequence names and starts ['STRG.2.1', 3082, 'STRG.2.2', 3082], query start: 12656, kmer: TCAGCTGAAGC
+target sequence names and starts ['STRG.50.1', 198], query start: 12670, kmer: TCGTGTGCCTC
+target sequence names and starts ['STRG.27.1', 3888], query start: 12700, kmer: GATTTAAGTAC
+target sequence names and starts ['STRG.15.1', 1155], query start: 12701, kmer: ATTTAAGTACT
+target sequence names and starts ['STRG.26.2', 395], query start: 12702, kmer: TTTAAGTACTG
+target sequence names and starts ['STRG.26.2', 396], query start: 12703, kmer: TTAAGTACTGC
+target sequence names and starts ['STRG.26.2', 397], query start: 12704, kmer: TAAGTACTGCA
+target sequence names and starts ['STRG.26.2', 398], query start: 12705, kmer: AAGTACTGCAT
+target sequence names and starts ['STRG.18.2', 1620, 'STRG.18.1', 1620], query start: 12749, kmer: TTCCAATTCCG
+target sequence names and starts ['STRG.25.2', 567, 'STRG.25.1', 466], query start: 12771, kmer: GGTTTCAATTT
+target sequence names and starts ['STRG.42.1', 199, 'STRG.42.2', 199], query start: 12777, kmer: AATTTGAAAGT
+target sequence names and starts ['STRG.33.1', 1588, 'STRG.33.2', 1588], query start: 12815, kmer: CAAGTTCAATG
+target sequence names and starts ['STRG.48.1', 1143, 'STRG.48.2', 1143], query start: 12908, kmer: CTTTGTCTGCA
+target sequence names and starts ['STRG.20.3', 6547, 'STRG.20.1', 16265, 'STRG.20.2', 16850], query start: 12913, kmer: TCTGCAGCTGC
+target sequence names and starts ['STRG.38.1', 175], query start: 12914, kmer: CTGCAGCTGCA
+target sequence names and starts ['STRG.20.1', 9852, 'STRG.20.2', 10437], query start: 12915, kmer: TGCAGCTGCAG
+target sequence names and starts ['STRG.20.1', 7049, 'STRG.20.2', 7049], query start: 12932, kmer: TGCAAACTCCT
+target sequence names and starts ['STRG.13.1', 3220], query start: 12971, kmer: CTGCTTTCCTG
+target sequence names and starts ['STRG.13.1', 3221], query start: 12972, kmer: TGCTTTCCTGC
+target sequence names and starts ['STRG.53.1', 684, 'STRG.53.2', 684], query start: 12976, kmer: TTCCTGCAGTT
+target sequence names and starts ['STRG.18.2', 16228, 'STRG.18.1', 16282], query start: 12978, kmer: CCTGCAGTTTC
+target sequence names and starts ['STRG.18.2', 16229, 'STRG.18.1', 16283], query start: 12979, kmer: CTGCAGTTTCC
+target sequence names and starts ['STRG.37.1', 657], query start: 13061, kmer: CGAAAAACAAG
+target sequence names and starts ['STRG.37.1', 658], query start: 13062, kmer: GAAAAACAAGT
+target sequence names and starts ['STRG.37.1', 659], query start: 13063, kmer: AAAAACAAGTA
+target sequence names and starts ['STRG.37.1', 660], query start: 13064, kmer: AAAACAAGTAA
+target sequence names and starts ['STRG.23.3', 1855, 'STRG.23.1', 1628, 'STRG.23.2', 1628], query start: 13077, kmer: AGCTGGTGTTT
+target sequence names and starts ['STRG.38.1', 2149], query start: 13101, kmer: CAACAGCAGAG
+target sequence names and starts ['STRG.4.1', 2734], query start: 13132, kmer: TCTTTAAATAG
+target sequence names and starts ['STRG.35.1', 1558], query start: 13143, kmer: CAAATATTTCT
+target sequence names and starts ['STRG.53.1', 42, 'STRG.53.2', 42], query start: 13160, kmer: TAATTGGTATT
+target sequence names and starts ['STRG.31.1', 2672, 'STRG.31.2', 2672, 'STRG.31.3', 1582], query start: 13184, kmer: TTTAACAGCTT
+target sequence names and starts ['STRG.9.1', 241, 'STRG.9.2', 241, 'STRG.9.3', 461], query start: 13229, kmer: CACAGCAGCTG
+target sequence names and starts ['STRG.55.1', 479], query start: 13264, kmer: ACACATCCGCC
+target sequence names and starts ['STRG.20.1', 9254, 'STRG.20.2', 9254], query start: 13289, kmer: CCCATTCGCCC
+target sequence names and starts ['STRG.20.3', 3230, 'STRG.20.1', 12948, 'STRG.20.2', 13533], query start: 13324, kmer: CCTTCCCTGAC
+target sequence names and starts ['STRG.20.3', 3231, 'STRG.20.1', 12949, 'STRG.20.2', 13534], query start: 13325, kmer: CTTCCCTGACC
+target sequence names and starts ['STRG.44.1', 864, 'STRG.44.2', 864], query start: 13340, kmer: GGCACCCGCAT
+target sequence names and starts ['STRG.44.1', 865, 'STRG.44.2', 865], query start: 13341, kmer: GCACCCGCATC
+target sequence names and starts ['STRG.23.3', 1829, 'STRG.23.1', 1602, 'STRG.23.2', 1602], query start: 13446, kmer: CTTCTGGTGCT
+target sequence names and starts ['STRG.5.1', 3013], query start: 13476, kmer: GTGGTTTTTAT
+target sequence names and starts ['STRG.5.1', 3014], query start: 13477, kmer: TGGTTTTTATT
+target sequence names and starts ['STRG.5.1', 3015], query start: 13478, kmer: GGTTTTTATTT
+target sequence names and starts ['STRG.18.2', 2135, 'STRG.18.1', 2135], query start: 13489, kmer: ATGGTCTATTT
+target sequence names and starts ['STRG.27.1', 40], query start: 13495, kmer: TATTTTTGTTT
+target sequence names and starts ['STRG.27.1', 41], query start: 13496, kmer: ATTTTTGTTTT
+target sequence names and starts ['STRG.27.1', 42], query start: 13497, kmer: TTTTTGTTTTC
+target sequence names and starts ['STRG.47.2', 29, 'STRG.47.1', 29], query start: 13500, kmer: TTGTTTTCATT
+target sequence names and starts ['STRG.47.2', 30, 'STRG.47.1', 30], query start: 13501, kmer: TGTTTTCATTT
+target sequence names and starts ['STRG.1.1', 4083], query start: 13505, kmer: TTCATTTTTTA
+target sequence names and starts ['STRG.1.1', 4084], query start: 13506, kmer: TCATTTTTTAT
+target sequence names and starts ['STRG.1.1', 4085], query start: 13507, kmer: CATTTTTTATT
+target sequence names and starts ['STRG.1.1', 4086], query start: 13508, kmer: ATTTTTTATTT
+target sequence names and starts ['STRG.31.2', 3487, 'STRG.31.3', 2397], query start: 13509, kmer: TTTTTTATTTT
+target sequence names and starts ['STRG.39.1', 47], query start: 13559, kmer: AATAAAAGCCA
+target sequence names and starts ['STRG.39.1', 48], query start: 13560, kmer: ATAAAAGCCAA
+target sequence names and starts ['STRG.4.1', 18], query start: 13561, kmer: TAAAAGCCAAG
+target sequence names and starts ['STRG.20.3', 1610, 'STRG.20.1', 11328, 'STRG.20.2', 11913], query start: 13562, kmer: AAAAGCCAAGT
+target sequence names and starts ['STRG.26.1', 707, 'STRG.26.2', 1729], query start: 13568, kmer: CAAGTGCAAAG
+target sequence names and starts ['STRG.18.2', 10542, 'STRG.18.1', 10596, 'STRG.42.1', 77, 'STRG.42.2', 77], query start: 13570, kmer: AGTGCAAAGTT
+target sequence names and starts ['STRG.18.2', 10543, 'STRG.18.1', 10597], query start: 13571, kmer: GTGCAAAGTTT
+target sequence names and starts ['STRG.20.1', 393, 'STRG.20.2', 393], query start: 13579, kmer: TTTTGACAACG
+target sequence names and starts ['STRG.20.3', 4547, 'STRG.20.1', 14265, 'STRG.20.2', 14850], query start: 13593, kmer: CTCAGTCGCTG
+target sequence names and starts ['STRG.29.1', 314], query start: 13603, kmer: GCTGCAGCAGC
+target sequence names and starts ['STRG.20.1', 2967, 'STRG.20.2', 2967], query start: 13656, kmer: TGTCGCAGCCG
+target sequence names and starts ['STRG.20.1', 2968, 'STRG.20.2', 2968, 'STRG.31.1', 924, 'STRG.31.2', 924], query start: 13657, kmer: GTCGCAGCCGC
+target sequence names and starts ['STRG.48.1', 2607], query start: 13679, kmer: CAGCGAACAAA
+target sequence names and starts ['STRG.5.1', 3896], query start: 13684, kmer: AACAAATTGCC
+target sequence names and starts ['STRG.31.1', 2055, 'STRG.31.2', 2055, 'STRG.31.3', 965], query start: 13686, kmer: CAAATTGCCGC
+target sequence names and starts ['STRG.20.1', 3233, 'STRG.20.2', 3233], query start: 13699, kmer: CACGGAGGAAA
+target sequence names and starts ['STRG.5.1', 855], query start: 13701, kmer: CGGAGGAAAAC
+target sequence names and starts ['STRG.18.2', 11616, 'STRG.18.1', 11670], query start: 13714, kmer: GCAGACGACAC
+target sequence names and starts ['STRG.18.2', 7588, 'STRG.18.1', 7642], query start: 13717, kmer: GACGACACAGA
+target sequence names and starts ['STRG.34.1', 688], query start: 13728, kmer: CAACACAGACA
+target sequence names and starts ['STRG.20.1', 4642, 'STRG.20.2', 4642], query start: 13734, kmer: AGACAACAAGC
+target sequence names and starts ['STRG.20.1', 4643, 'STRG.20.2', 4643], query start: 13735, kmer: GACAACAAGCC
+target sequence names and starts ['STRG.5.1', 2290], query start: 13789, kmer: GCCGGAAAATT
+target sequence names and starts ['STRG.18.2', 7422, 'STRG.18.1', 7476], query start: 13799, kmer: TGGAGAGCTCA
+target sequence names and starts ['STRG.18.2', 7423, 'STRG.18.1', 7477], query start: 13800, kmer: GGAGAGCTCAG
+target sequence names and starts ['STRG.20.1', 5337, 'STRG.20.2', 5337], query start: 13824, kmer: CCAGTTCGAGT
+target sequence names and starts ['STRG.31.1', 1479, 'STRG.31.2', 1479, 'STRG.31.3', 389], query start: 13896, kmer: GCAGCAACTTT
+target sequence names and starts ['STRG.45.1', 1060], query start: 13898, kmer: AGCAACTTTGA
+target sequence names and starts ['STRG.57.2', 3408], query start: 13904, kmer: TTTGAATTATT
+target sequence names and starts ['STRG.57.2', 3409], query start: 13905, kmer: TTGAATTATTG
+target sequence names and starts ['STRG.42.2', 527], query start: 13947, kmer: GCGAGCGAGAG
+target sequence names and starts ['STRG.18.2', 10241, 'STRG.18.1', 10295], query start: 13961, kmer: CCGTATCCGCA
+target sequence names and starts ['STRG.20.1', 1734, 'STRG.20.2', 1734], query start: 13974, kmer: TTTCCCCACAA
+target sequence names and starts ['STRG.20.1', 1735, 'STRG.20.2', 1735], query start: 13975, kmer: TTCCCCACAAA
+target sequence names and starts ['STRG.6.1', 405], query start: 13979, kmer: CCACAAACAAA
+target sequence names and starts ['STRG.14.1', 117], query start: 13981, kmer: ACAAACAAATT
+target sequence names and starts ['STRG.32.2', 1161, 'STRG.32.1', 1161], query start: 14009, kmer: CACCACCTATG
+target sequence names and starts ['STRG.49.2', 227, 'STRG.49.1', 147], query start: 14041, kmer: GCCAGAGACAA
+target sequence names and starts ['STRG.49.2', 228, 'STRG.49.1', 148], query start: 14042, kmer: CCAGAGACAAA
+target sequence names and starts ['STRG.49.2', 229, 'STRG.49.1', 149], query start: 14043, kmer: CAGAGACAAAT
+target sequence names and starts ['STRG.43.3', 613, 'STRG.43.1', 584, 'STRG.43.2', 580], query start: 14049, kmer: CAAATCCTGCT
+target sequence names and starts ['STRG.4.1', 498], query start: 14051, kmer: AATCCTGCTTT
+target sequence names and starts ['STRG.24.1', 814], query start: 14073, kmer: GGGAAATGGTA
+target sequence names and starts ['STRG.24.1', 815], query start: 14074, kmer: GGAAATGGTAG
+target sequence names and starts ['STRG.20.2', 9620], query start: 14086, kmer: GAAAATGCTAG
+target sequence names and starts ['STRG.20.2', 9621], query start: 14087, kmer: AAAATGCTAGC
+target sequence names and starts ['STRG.20.2', 9622], query start: 14088, kmer: AAATGCTAGCG
+target sequence names and starts ['STRG.44.1', 2019, 'STRG.44.2', 2019], query start: 14104, kmer: GACATTGACAA
+target sequence names and starts ['STRG.18.2', 369, 'STRG.18.1', 369], query start: 14118, kmer: TTATTTGGCCA
+target sequence names and starts ['STRG.18.2', 370, 'STRG.18.1', 370], query start: 14119, kmer: TATTTGGCCAA
+target sequence names and starts ['STRG.59.1', 3877, 'STRG.59.2', 4665], query start: 14132, kmer: TATTTTTGTGT
+target sequence names and starts ['STRG.2.1', 3263, 'STRG.2.2', 3263], query start: 14143, kmer: TGGGAGCGAAC
+target sequence names and starts ['STRG.30.1', 1636], query start: 14152, kmer: ACAAACGAACA
+target sequence names and starts ['STRG.20.1', 5410, 'STRG.20.2', 5410], query start: 14179, kmer: TTCCAAACCCA
+target sequence names and starts ['STRG.51.1', 661], query start: 14223, kmer: ACGGAGAAGCT
+target sequence names and starts ['STRG.51.1', 662], query start: 14224, kmer: CGGAGAAGCTC
+target sequence names and starts ['STRG.48.1', 2116, 'STRG.48.2', 2116], query start: 14244, kmer: CGAGAACTGAA
+target sequence names and starts ['STRG.28.1', 729], query start: 14259, kmer: TTTTTTGCGGC
+target sequence names and starts ['STRG.32.2', 1102, 'STRG.32.1', 1102], query start: 14274, kmer: ATATCACTTTT
+target sequence names and starts ['STRG.9.2', 1794, 'STRG.9.3', 2014], query start: 14278, kmer: CACTTTTTTAA
+target sequence names and starts ['STRG.18.2', 4885, 'STRG.18.1', 4939], query start: 14314, kmer: GGAAATAGCAA
+target sequence names and starts ['STRG.18.2', 4886, 'STRG.18.1', 4940], query start: 14315, kmer: GAAATAGCAAC
+target sequence names and starts ['STRG.18.2', 4887, 'STRG.18.1', 4941], query start: 14316, kmer: AAATAGCAACA
+target sequence names and starts ['STRG.27.1', 1621], query start: 14344, kmer: AAATCAACTTC
+target sequence names and starts ['STRG.14.1', 3083], query start: 14373, kmer: TCACAGAAAGT
+target sequence names and starts ['STRG.14.1', 3084], query start: 14374, kmer: CACAGAAAGTG
+target sequence names and starts ['STRG.57.1', 319, 'STRG.57.2', 319], query start: 14395, kmer: CAGTGGAAAGT
+target sequence names and starts ['STRG.57.1', 320, 'STRG.57.2', 320], query start: 14396, kmer: AGTGGAAAGTG
+target sequence names and starts ['STRG.57.1', 321, 'STRG.57.2', 321], query start: 14397, kmer: GTGGAAAGTGG
+target sequence names and starts ['STRG.57.1', 322, 'STRG.57.2', 322], query start: 14398, kmer: TGGAAAGTGGA
+target sequence names and starts ['STRG.2.1', 960, 'STRG.2.2', 960], query start: 14405, kmer: TGGAGCTGGCC
+target sequence names and starts ['STRG.47.2', 675, 'STRG.47.1', 675], query start: 14408, kmer: AGCTGGCCATC
+target sequence names and starts ['STRG.10.3', 1013, 'STRG.10.2', 893], query start: 14412, kmer: GGCCATCAGCA
+target sequence names and starts ['STRG.18.2', 10483, 'STRG.18.1', 10537], query start: 14420, kmer: GCAGAAATTGA
+target sequence names and starts ['STRG.6.1', 65, 'STRG.8.1', 40], query start: 14434, kmer: ATAAATAAATA
+target sequence names and starts ['STRG.6.1', 66], query start: 14435, kmer: TAAATAAATAA
+target sequence names and starts ['STRG.22.1', 1688], query start: 14464, kmer: TTTGTTTCTAT
+target sequence names and starts ['STRG.1.1', 3410], query start: 14473, kmer: ATTAAAAATCC
+target sequence names and starts ['STRG.41.2', 2410, 'STRG.41.3', 2349], query start: 14499, kmer: ACTTTTACTTA
+target sequence names and starts ['STRG.27.1', 250], query start: 14504, kmer: TACTTAAACTT
+target sequence names and starts ['STRG.27.1', 251], query start: 14505, kmer: ACTTAAACTTT
+target sequence names and starts ['STRG.5.1', 6392], query start: 14520, kmer: CTTACATTTTA
+target sequence names and starts ['STRG.45.1', 780], query start: 14521, kmer: TTACATTTTAT
+target sequence names and starts ['STRG.45.1', 781], query start: 14522, kmer: TACATTTTATT
+target sequence names and starts ['STRG.45.1', 782], query start: 14523, kmer: ACATTTTATTT
+target sequence names and starts ['STRG.7.1', 1271, 'STRG.7.3', 1146, 'STRG.7.4', 1146, 'STRG.7.2', 1119, 'STRG.7.5', 1075, 'STRG.7.6', 1195], query start: 14577, kmer: GCAAGGACTTC
+target sequence names and starts ['STRG.10.6', 15], query start: 14606, kmer: AAATTCAAATT
+target sequence names and starts ['STRG.59.1', 3539, 'STRG.59.2', 4327], query start: 14624, kmer: CATCTGGCGCA
+target sequence names and starts ['STRG.20.3', 4767, 'STRG.20.1', 14485, 'STRG.20.2', 15070], query start: 14625, kmer: ATCTGGCGCAT
+target sequence names and starts ['STRG.5.1', 2335], query start: 14661, kmer: AATTAAATGGC
+target sequence names and starts ['STRG.33.1', 3947, 'STRG.33.2', 3761], query start: 14671, kmer: CCCGCCTGCCC
+target sequence names and starts ['STRG.20.3', 3585, 'STRG.20.1', 13303, 'STRG.20.2', 13888], query start: 14675, kmer: CCTGCCCCCCG
+target sequence names and starts ['STRG.13.2', 317], query start: 14683, kmer: CCGTCATGAGT
+target sequence names and starts ['STRG.13.2', 318], query start: 14684, kmer: CGTCATGAGTT
+target sequence names and starts ['STRG.7.1', 2253, 'STRG.7.3', 2128, 'STRG.7.4', 2128, 'STRG.7.2', 2101, 'STRG.7.5', 2057, 'STRG.7.6', 2177], query start: 14698, kmer: AAAAATATATT
+target sequence names and starts ['STRG.7.1', 2254, 'STRG.7.3', 2129, 'STRG.7.4', 2129, 'STRG.7.2', 2102, 'STRG.7.5', 2058, 'STRG.7.6', 2178], query start: 14699, kmer: AAAATATATTA
+target sequence names and starts ['STRG.7.1', 2255, 'STRG.7.3', 2130, 'STRG.7.4', 2130, 'STRG.7.2', 2103, 'STRG.7.5', 2059, 'STRG.7.6', 2179], query start: 14700, kmer: AAATATATTAA
+target sequence names and starts ['STRG.7.1', 2256, 'STRG.7.3', 2131, 'STRG.7.4', 2131, 'STRG.7.2', 2104, 'STRG.7.5', 2060, 'STRG.7.6', 2180], query start: 14701, kmer: AATATATTAAA
+target sequence names and starts ['STRG.60.1', 310], query start: 14714, kmer: TGGAGGGGAGC
+target sequence names and starts ['STRG.60.1', 311], query start: 14715, kmer: GGAGGGGAGCA
+target sequence names and starts ['STRG.48.1', 595, 'STRG.48.2', 595], query start: 14720, kmer: GGAGCAGAAAG
+target sequence names and starts ['STRG.31.1', 1136, 'STRG.31.2', 1136], query start: 14748, kmer: AGGCGCCAGCG
+target sequence names and starts ['STRG.31.1', 1137, 'STRG.31.2', 1137], query start: 14749, kmer: GGCGCCAGCGG
+target sequence names and starts ['STRG.40.1', 75], query start: 14760, kmer: TTGCCAGCATT
+target sequence names and starts ['STRG.40.1', 76], query start: 14761, kmer: TGCCAGCATTT
+target sequence names and starts ['STRG.27.1', 6], query start: 14767, kmer: CATTTGTTGCT
+target sequence names and starts ['STRG.23.3', 1903, 'STRG.23.1', 1676, 'STRG.23.2', 1676], query start: 14789, kmer: AGTTCGCCCAG
+target sequence names and starts ['STRG.33.1', 4041, 'STRG.33.2', 3855], query start: 14805, kmer: GCAGAACTCAA
+target sequence names and starts ['STRG.33.1', 4042, 'STRG.33.2', 3856], query start: 14806, kmer: CAGAACTCAAG
+target sequence names and starts ['STRG.56.3', 686], query start: 14830, kmer: GCAGCCCTTTG
+target sequence names and starts ['STRG.46.1', 87], query start: 14839, kmer: TGCTGCTCCTG
