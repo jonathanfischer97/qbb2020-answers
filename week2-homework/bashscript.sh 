@@ -1,0 +1,30 @@
+!/bin/bash
+
+#Step 1
+bwa index sacCer3.fa 
+
+#Step 2
+for SAMPLE in *.fastq 
+do 
+    bwa mem -R "@RG\tID:${SAMPLE}\tSM:${SAMPLE}" sacCer3.fa $SAMPLE > ${SAMPLE%.fastq}.sam
+done 
+ 
+#Step 3
+for SAMPLE in *.sam 
+do
+    samtools sort $SAMPLE -o ${SAMPLE%.sam}.bam -O bam
+done 
+
+#Step 4
+freebayes -f sacCer3.fa -p 1 --genotype-qualities *.bam > yeast_vars.vcf
+
+#Step 5
+vcffilter -f "QUAL > 20" yeast_vars.vcf > yeast_vars_results.vcf
+
+#Step 6
+vcfallelicprimitives -kg yeast_vars_results.vcf > yeast_vars_results_decompose.vcf 
+
+#Step 7
+snpeff ann -lof R64-1-1.86 yeast_vars_results_decompose.vcf > prediction.vcf 
+
+#For Step 8, see python script 
